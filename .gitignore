@@ -1,0 +1,70 @@
+# Data files (raw data is re-downloadable)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Model artifacts
+models/*.pkl
+models/*.pt
+models/*.pth
+models/*.joblib
+models/*.scaler.pkl
+!models/.gitkeep
+
+# Generated outputs — keep example outputs so GitHub viewers can see results
+!outputs/figures/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Environment
+.env
+.env.*
+.venv/
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# pytest
+.pytest_cache/
+
+# Coverage
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+
+# mypy / type checking
+.mypy_cache/
+.pytype/
+
+# Secrets and credentials
+*.pem
+*.key
+credentials.json
