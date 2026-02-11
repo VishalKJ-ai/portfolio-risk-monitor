@@ -1,0 +1,99 @@
+# Portfolio Risk Monitor Configuration
+# =====================================
+
+# Data collection settings
+data:
+  tickers:
+    - SPY
+    - QQQ
+    - IWM
+    - AAPL
+    - MSFT
+    - GOOGL
+    - AMZN
+    - META
+    - NVDA
+    - JPM
+    - JNJ
+    - UNH
+    - PG
+    - V
+    - MA
+  start_date: "2019-01-01"
+  end_date: "2024-06-30"
+  paths:
+    raw: "data/raw"
+    processed: "data/processed"
+    sample: "data/sample"
+  news:
+    rss_feeds:
+      - "https://feeds.finance.yahoo.com/rss/2.0/headline"
+      - "https://www.reutersagency.com/feed/"
+    max_headlines_per_day: 50
+
+# Feature engineering parameters
+features:
+  technical:
+    rsi_period: 14
+    macd_fast: 12
+    macd_slow: 26
+    macd_signal: 9
+    bollinger_window: 20
+    bollinger_std: 2
+    ma_windows: [20, 50, 200]
+    volume_avg_window: 20
+    volatility_window: 20
+    roc_period: 10
+  sentiment:
+    model_name: "ProsusAI/finbert"
+    max_length: 512
+    batch_size: 32
+
+# Target variable configuration
+target:
+  threshold: 0.02        # 2% drop
+  horizon: 5             # Next 5 trading days
+  direction: "down"      # Predicting downside risk
+
+# Train/validation/test split (time-based, NOT random)
+split:
+  train_end: "2022-12-31"
+  val_end: "2023-06-30"
+  # Everything after val_end is test set
+
+# Model hyperparameters
+models:
+  logistic_regression:
+    C: 1.0
+    penalty: "l2"
+    max_iter: 1000
+    solver: "lbfgs"
+
+  random_forest:
+    n_estimators_range: [100, 200, 300]
+    max_depth_range: [5, 10, 15, null]
+    min_samples_split_range: [2, 5, 10]
+    min_samples_leaf_range: [1, 2, 4]
+    n_cv_splits: 5
+    random_state: 42
+
+  lstm:
+    sequence_length: 30
+    hidden_size: 64
+    num_layers: 2
+    dropout: 0.3
+    learning_rate: 0.001
+    batch_size: 64
+    epochs: 50
+    patience: 7           # Early stopping patience
+    random_state: 42
+
+# Output paths
+output:
+  figures_dir: "outputs/figures"
+  models_dir: "models"
+
+# Logging
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
