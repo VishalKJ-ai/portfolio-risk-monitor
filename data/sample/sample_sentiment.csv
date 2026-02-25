@@ -1,0 +1,1100 @@
+date,headline,ticker,source,positive,negative,neutral,label,compound_score
+2021-01-04,Markets tumble on recession fears and weak economic data,,Yahoo Finance,0.1039,0.6371,0.259,negative,-0.5333
+2021-01-05,AAPL profit margins expand amid cost cutting efforts,AAPL,Reuters,0.2303,0.1617,0.608,neutral,0.0687
+2021-01-05,Analysts upgrade SPY to 'buy' after strong quarter,SPY,MarketWatch,0.6314,0.0212,0.3474,positive,0.6102
+2021-01-06,SPY files routine regulatory paperwork,SPY,Yahoo Finance,0.0787,0.2671,0.6542,neutral,-0.1884
+2021-01-06,QQQ to present at upcoming investor conference,QQQ,MarketWatch,0.1264,0.3497,0.5239,neutral,-0.2233
+2021-01-06,GOOGL announces major share buyback program,GOOGL,Reuters,0.2065,0.1195,0.674,neutral,0.087
+2021-01-07,GDP growth slows but beats revised expectations,,MarketWatch,0.6182,0.0977,0.2841,positive,0.5205
+2021-01-07,Wall Street bullish on SPY growth prospects,SPY,CNBC,0.812,0.0706,0.1174,positive,0.7415
+2021-01-07,Tech sector leads market decline on growth concerns,,Bloomberg,0.1083,0.641,0.2507,negative,-0.5327
+2021-01-08,Oil prices surge on geopolitical tensions in Middle East,,Reuters,0.776,0.0301,0.1938,positive,0.7459
+2021-01-08,Mixed signals for AAPL as sector consolidates,AAPL,Yahoo Finance,0.1721,0.1779,0.65,neutral,-0.0057
+2021-01-11,Short sellers increase bets against SPY,SPY,Bloomberg,0.8287,0.0448,0.1265,positive,0.784
+2021-01-11,AAPL board approves routine corporate matters,AAPL,CNBC,0.1858,0.2867,0.5275,neutral,-0.1009
+2021-01-12,Competition intensifies as SPY loses market share,SPY,Yahoo Finance,0.0702,0.7282,0.2015,negative,-0.658
+2021-01-12,AAPL dividend increase signals management confidence,AAPL,MarketWatch,0.826,0.0934,0.0805,positive,0.7326
+2021-01-13,VIX spikes as volatility returns to equity markets,,Yahoo Finance,0.0883,0.2486,0.6631,neutral,-0.1603
+2021-01-13,S&P 500 closes at session highs on broad rally,,Reuters,0.8197,0.08,0.1003,positive,0.7397
+2021-01-14,Market rally lifts AAPL to new 52-week high,AAPL,Reuters,0.5625,0.0505,0.387,positive,0.512
+2021-01-15,SPY CFO departure raises governance questions,SPY,Bloomberg,0.1642,0.3781,0.4577,neutral,-0.2138
+2021-01-18,Institutional investors increase holdings in AAPL,AAPL,Bloomberg,0.6706,0.1484,0.1811,positive,0.5222
+2021-01-19,QQQ raises full-year guidance above consensus,QQQ,Yahoo Finance,0.8638,0.1262,0.0099,positive,0.7376
+2021-01-20,Strong consumer demand drives QQQ sales higher,QQQ,Reuters,0.7354,0.1249,0.1397,positive,0.6105
+2021-01-20,GDP growth slows but beats revised expectations,,CNBC,0.6487,0.0929,0.2584,positive,0.5559
+2021-01-21,Options activity in GOOGL suggests sideways movement,GOOGL,Bloomberg,0.0928,0.3393,0.5679,neutral,-0.2465
+2021-01-22,SPY volume picks up ahead of next week earnings,SPY,Yahoo Finance,0.1896,0.3387,0.4718,neutral,-0.1491
+2021-01-25,Mixed signals for AAPL as sector consolidates,AAPL,Bloomberg,0.2295,0.2912,0.4793,neutral,-0.0617
+2021-01-27,Treasury yields climb as inflation data tops expectations,,Reuters,0.0905,0.183,0.7264,neutral,-0.0925
+2021-01-27,GOOGL cloud revenue growth accelerates in latest quarter,GOOGL,Reuters,0.7242,0.116,0.1597,positive,0.6082
+2021-01-29,Rising costs pressure MSFT profit margins,MSFT,CNBC,0.1397,0.6561,0.2042,negative,-0.5164
+2021-02-02,Trading volume in AAPL remains steady ahead of earnings,AAPL,Reuters,0.0759,0.2075,0.7165,neutral,-0.1316
+2021-02-02,GOOGL profit margins expand amid cost cutting efforts,GOOGL,MarketWatch,0.2941,0.2477,0.4582,neutral,0.0464
+2021-02-02,Short sellers increase bets against GOOGL,GOOGL,Bloomberg,0.9039,0.0749,0.0212,positive,0.829
+2021-02-03,QQQ announces major share buyback program,QQQ,Yahoo Finance,0.2047,0.3301,0.4652,neutral,-0.1254
+2021-02-03,Market selloff drags SPY below key support levels,SPY,Reuters,0.1418,0.6586,0.1997,negative,-0.5168
+2021-02-04,Rising costs pressure QQQ profit margins,QQQ,MarketWatch,0.1044,0.844,0.0515,negative,-0.7396
+2021-02-04,MSFT announces leadership transition plan,MSFT,MarketWatch,0.2253,0.2393,0.5354,neutral,-0.014
+2021-02-05,GDP growth slows but beats revised expectations,,MarketWatch,0.657,0.0249,0.3181,positive,0.6321
+2021-02-09,Consumer confidence drops to lowest level in six months,,MarketWatch,0.0835,0.7381,0.1784,negative,-0.6546
+2021-02-11,SPY secures major government contract worth billions,SPY,MarketWatch,0.8323,0.1325,0.0352,positive,0.6998
+2021-02-12,Mixed signals for AAPL as sector consolidates,AAPL,Yahoo Finance,0.1624,0.2813,0.5563,neutral,-0.1189
+2021-02-15,Options activity in MSFT suggests sideways movement,MSFT,CNBC,0.1311,0.2778,0.5911,neutral,-0.1468
+2021-02-15,"AAPL beats earnings expectations, shares surge",AAPL,MarketWatch,0.8251,0.0879,0.0871,positive,0.7372
+2021-02-16,Trade tensions weigh on SPY international revenue,SPY,MarketWatch,0.2126,0.0632,0.7242,neutral,0.1493
+2021-02-17,QQQ board approves routine corporate matters,QQQ,Bloomberg,0.0912,0.3952,0.5136,neutral,-0.304
+2021-02-18,Market rally lifts QQQ to new 52-week high,QQQ,MarketWatch,0.6878,0.0651,0.2471,positive,0.6227
+2021-02-22,MSFT lowers guidance amid macroeconomic headwinds,MSFT,Yahoo Finance,0.0439,0.7006,0.2555,negative,-0.6568
+2021-02-22,Retail investors drive unusual options activity,,Bloomberg,0.0864,0.1701,0.7435,neutral,-0.0837
+2021-02-22,SPY to present at upcoming investor conference,SPY,MarketWatch,0.0533,0.3009,0.6458,neutral,-0.2477
+2021-02-23,Concerns mount over SPY slowing growth trajectory,SPY,Yahoo Finance,0.0602,0.7006,0.2392,negative,-0.6404
+2021-02-24,Market rally lifts GOOGL to new 52-week high,GOOGL,Reuters,0.6913,0.0848,0.2239,positive,0.6066
+2021-02-25,Manufacturing PMI signals contraction for third month,,MarketWatch,0.0959,0.7721,0.132,negative,-0.6763
+2021-02-26,Analysts downgrade AAPL citing valuation concerns,AAPL,Reuters,0.1298,0.7834,0.0868,negative,-0.6536
+2021-03-03,GOOGL holds investor day with no major announcements,GOOGL,Bloomberg,0.2343,0.0497,0.716,neutral,0.1846
+2021-03-03,Short sellers increase bets against AAPL,AAPL,MarketWatch,0.5792,0.145,0.2758,positive,0.4342
+2021-03-03,Institutional investors increase holdings in SPY,SPY,Reuters,0.8802,0.11,0.0098,positive,0.7703
+2021-03-04,AAPL announces leadership transition plan,AAPL,MarketWatch,0.1127,0.2821,0.6052,neutral,-0.1695
+2021-03-05,QQQ dividend increase signals management confidence,QQQ,Yahoo Finance,0.8298,0.1341,0.036,positive,0.6957
+2021-03-05,SPY reports record revenue in Q2 results,SPY,Yahoo Finance,0.7961,0.1018,0.1021,positive,0.6943
+2021-03-05,SPY holds investor day with no major announcements,SPY,Yahoo Finance,0.1394,0.3526,0.5079,neutral,-0.2132
+2021-03-08,Competition intensifies as QQQ loses market share,QQQ,CNBC,0.0222,0.8176,0.1602,negative,-0.7954
+2021-03-08,GOOGL faces regulatory scrutiny over business practices,GOOGL,MarketWatch,0.1197,0.7873,0.0931,negative,-0.6676
+2021-03-08,Strong consumer demand drives MSFT sales higher,MSFT,CNBC,0.6738,0.0299,0.2963,positive,0.6439
+2021-03-09,Market rally lifts MSFT to new 52-week high,MSFT,Yahoo Finance,0.8531,0.0384,0.1085,positive,0.8146
+2021-03-09,MSFT reports record revenue in Q3 results,MSFT,CNBC,0.6872,0.1119,0.2009,positive,0.5753
+2021-03-09,MSFT files routine regulatory paperwork,MSFT,Yahoo Finance,0.2656,0.0393,0.6951,neutral,0.2263
+2021-03-10,MSFT reports results in line with expectations,MSFT,Yahoo Finance,0.169,0.2219,0.6091,neutral,-0.0529
+2021-03-10,QQQ announces major share buyback program,QQQ,MarketWatch,0.1908,0.1047,0.7045,neutral,0.086
+2021-03-11,GDP growth slows but beats revised expectations,,Reuters,0.7641,0.0764,0.1595,positive,0.6877
+2021-03-11,Short sellers increase bets against QQQ,QQQ,CNBC,0.6879,0.0825,0.2296,positive,0.6055
+2021-03-12,SPY announces major share buyback program,SPY,MarketWatch,0.1359,0.3047,0.5595,neutral,-0.1688
+2021-03-15,Concerns mount over SPY slowing growth trajectory,SPY,Yahoo Finance,0.0637,0.9177,0.0186,negative,-0.8539
+2021-03-15,Trade tensions weigh on QQQ international revenue,QQQ,CNBC,0.1385,0.3346,0.5269,neutral,-0.1961
+2021-03-15,MSFT layoffs signal deeper problems in core business,MSFT,CNBC,0.1384,0.7686,0.093,negative,-0.6302
+2021-03-16,S&P 500 closes at session highs on broad rally,,Reuters,0.8415,0.1295,0.029,positive,0.712
+2021-03-17,Short sellers increase bets against SPY,SPY,Bloomberg,0.8529,0.1373,0.0098,positive,0.7156
+2021-03-17,MSFT holds investor day with no major announcements,MSFT,CNBC,0.1646,0.3149,0.5205,neutral,-0.1503
+2021-03-18,GOOGL completes previously announced restructuring,GOOGL,Reuters,0.1455,0.289,0.5656,neutral,-0.1435
+2021-03-18,AAPL announces major share buyback program,AAPL,Yahoo Finance,0.1505,0.2039,0.6457,neutral,-0.0534
+2021-03-19,GOOGL hit by data breach affecting millions of users,GOOGL,Bloomberg,0.0697,0.778,0.1523,negative,-0.7083
+2021-03-22,"SPY misses revenue estimates, stock drops",SPY,MarketWatch,0.0659,0.6651,0.269,negative,-0.5992
+2021-03-22,Trade tensions weigh on GOOGL international revenue,GOOGL,Yahoo Finance,0.2003,0.1086,0.6911,neutral,0.0917
+2021-03-22,SPY dividend increase signals management confidence,SPY,Yahoo Finance,0.8682,0.1223,0.0095,positive,0.7459
+2021-03-23,SPY hit by data breach affecting millions of users,SPY,CNBC,0.0515,0.7297,0.2188,negative,-0.6782
+2021-03-23,Concerns mount over GOOGL slowing growth trajectory,GOOGL,MarketWatch,0.1145,0.7993,0.0862,negative,-0.6849
+2021-03-23,SPY board approves routine corporate matters,SPY,CNBC,0.1075,0.3033,0.5893,neutral,-0.1958
+2021-03-24,Analysts maintain hold rating on GOOGL,GOOGL,Bloomberg,0.1135,0.2694,0.6172,neutral,-0.1559
+2021-03-24,AAPL to present at upcoming investor conference,AAPL,Bloomberg,0.2072,0.0608,0.732,neutral,0.1464
+2021-03-24,Global markets rally on trade deal optimism,,Reuters,0.658,0.048,0.2939,positive,0.61
+2021-03-25,Rising costs pressure AAPL profit margins,AAPL,Bloomberg,0.112,0.8152,0.0728,negative,-0.7032
+2021-03-25,Trade tensions weigh on SPY international revenue,SPY,CNBC,0.2036,0.1673,0.6291,neutral,0.0363
+2021-03-25,Bond market inversion deepens recession concerns,,MarketWatch,0.0668,0.7734,0.1598,negative,-0.7066
+2021-03-29,SPY reports record revenue in Q2 results,SPY,MarketWatch,0.8968,0.0823,0.0209,positive,0.8145
+2021-03-30,Wall Street bullish on QQQ growth prospects,QQQ,Yahoo Finance,0.5575,0.0653,0.3772,positive,0.4922
+2021-04-01,"Job report exceeds expectations, stocks mixed",,Bloomberg,0.1408,0.3701,0.4891,neutral,-0.2292
+2021-04-02,Housing market shows signs of cooling as rates rise,,Reuters,0.0557,0.3119,0.6325,neutral,-0.2562
+2021-04-02,GOOGL layoffs signal deeper problems in core business,GOOGL,MarketWatch,0.0993,0.872,0.0287,negative,-0.7726
+2021-04-05,Mixed signals for GOOGL as sector consolidates,GOOGL,MarketWatch,0.1278,0.3336,0.5386,neutral,-0.2058
+2021-04-05,SPY warns of supply chain disruptions impacting margins,SPY,Bloomberg,0.0523,0.7223,0.2255,negative,-0.67
+2021-04-06,Markets tumble on recession fears and weak economic data,,Yahoo Finance,0.0235,0.5516,0.4249,negative,-0.5282
+2021-04-07,GOOGL completes previously announced restructuring,GOOGL,Bloomberg,0.0811,0.3616,0.5573,neutral,-0.2806
+2021-04-07,Options activity in GOOGL suggests sideways movement,GOOGL,Bloomberg,0.2648,0.2785,0.4567,neutral,-0.0137
+2021-04-08,AAPL faces regulatory scrutiny over business practices,AAPL,Bloomberg,0.0854,0.6514,0.2632,negative,-0.566
+2021-04-09,SPY holds investor day with no major announcements,SPY,CNBC,0.0617,0.4345,0.5038,neutral,-0.3728
+2021-04-09,AAPL secures major government contract worth billions,AAPL,Yahoo Finance,0.8256,0.0362,0.1382,positive,0.7894
+2021-04-09,QQQ maintains dividend at current levels,QQQ,Reuters,0.1968,0.3455,0.4577,neutral,-0.1487
+2021-04-12,MSFT completes previously announced restructuring,MSFT,MarketWatch,0.1591,0.3869,0.454,neutral,-0.2278
+2021-04-13,"SPY misses revenue estimates, stock drops",SPY,Reuters,0.0615,0.6569,0.2816,negative,-0.5953
+2021-04-13,SPY dividend increase signals management confidence,SPY,MarketWatch,0.5514,0.1454,0.3032,positive,0.4061
+2021-04-14,QQQ trading near 50-day moving average,QQQ,Reuters,0.1931,0.2018,0.6051,neutral,-0.0087
+2021-04-15,"AAPL beats earnings expectations, shares surge",AAPL,Yahoo Finance,0.7965,0.1237,0.0799,positive,0.6728
+2021-04-16,AAPL holds investor day with no major announcements,AAPL,Reuters,0.2405,0.1271,0.6324,neutral,0.1135
+2021-04-19,Analysts maintain hold rating on SPY,SPY,MarketWatch,0.1428,0.2726,0.5846,neutral,-0.1297
+2021-04-19,MSFT cloud revenue growth accelerates in latest quarter,MSFT,Reuters,0.8546,0.1325,0.013,positive,0.7221
+2021-04-20,QQQ volume picks up ahead of next week earnings,QQQ,CNBC,0.1857,0.323,0.4913,neutral,-0.1373
+2021-04-21,"QQQ beats earnings expectations, shares surge",QQQ,CNBC,0.8029,0.0309,0.1662,positive,0.7721
+2021-04-23,Market selloff drags QQQ below key support levels,QQQ,Reuters,0.0876,0.894,0.0184,negative,-0.8063
+2021-04-26,Market selloff drags SPY below key support levels,SPY,Yahoo Finance,0.0432,0.7888,0.168,negative,-0.7456
+2021-04-26,MSFT secures major government contract worth billions,MSFT,Reuters,0.6478,0.0357,0.3164,positive,0.6121
+2021-04-26,MSFT CFO departure raises governance questions,MSFT,Bloomberg,0.1731,0.2977,0.5292,neutral,-0.1246
+2021-04-28,QQQ CFO departure raises governance questions,QQQ,Yahoo Finance,0.1834,0.1165,0.7001,neutral,0.067
+2021-04-29,VIX spikes as volatility returns to equity markets,,CNBC,0.0612,0.4155,0.5233,neutral,-0.3544
+2021-04-30,Tech sector leads market decline on growth concerns,,Bloomberg,0.0746,0.7801,0.1453,negative,-0.7055
+2021-04-30,SPY volume picks up ahead of next week earnings,SPY,Bloomberg,0.2449,0.01,0.7451,neutral,0.2349
+2021-04-30,GOOGL launches innovative product to positive reviews,GOOGL,MarketWatch,0.8491,0.0216,0.1293,positive,0.8275
+2021-05-03,SPY raises full-year guidance above consensus,SPY,Bloomberg,0.8378,0.0453,0.1169,positive,0.7925
+2021-05-03,Trading volume in GOOGL remains steady ahead of earnings,GOOGL,Yahoo Finance,0.1619,0.2124,0.6257,neutral,-0.0506
+2021-05-03,Markets tumble on recession fears and weak economic data,,MarketWatch,0.0373,0.7615,0.2012,negative,-0.7241
+2021-05-04,AAPL files routine regulatory paperwork,AAPL,CNBC,0.0592,0.3537,0.5871,neutral,-0.2945
+2021-05-07,Bond market inversion deepens recession concerns,,MarketWatch,0.1055,0.5652,0.3293,negative,-0.4597
+2021-05-10,MSFT announces leadership transition plan,MSFT,Bloomberg,0.2443,0.0201,0.7355,neutral,0.2242
+2021-05-10,"MSFT misses revenue estimates, stock drops",MSFT,MarketWatch,0.0273,0.7236,0.2491,negative,-0.6963
+2021-05-11,Trade tensions weigh on GOOGL international revenue,GOOGL,Bloomberg,0.0895,0.447,0.4635,neutral,-0.3575
+2021-05-12,SPY files routine regulatory paperwork,SPY,MarketWatch,0.1497,0.1076,0.7427,neutral,0.0421
+2021-05-13,SPY lowers guidance amid macroeconomic headwinds,SPY,MarketWatch,0.1117,0.8621,0.0263,negative,-0.7504
+2021-05-17,Wall Street bullish on MSFT growth prospects,MSFT,CNBC,0.774,0.1432,0.0828,positive,0.6308
+2021-05-17,AAPL completes previously announced restructuring,AAPL,Reuters,0.1637,0.3172,0.5191,neutral,-0.1534
+2021-05-17,MSFT files routine regulatory paperwork,MSFT,MarketWatch,0.1879,0.1026,0.7094,neutral,0.0853
+2021-05-18,AAPL board approves routine corporate matters,AAPL,MarketWatch,0.1022,0.3738,0.5239,neutral,-0.2716
+2021-05-19,"Fed signals potential rate changes, markets react",,Bloomberg,0.0532,0.2709,0.6759,neutral,-0.2177
+2021-05-19,QQQ warns of supply chain disruptions impacting margins,QQQ,MarketWatch,0.0224,0.8883,0.0894,negative,-0.8659
+2021-05-20,AAPL hit by data breach affecting millions of users,AAPL,CNBC,0.0986,0.7835,0.1179,negative,-0.6848
+2021-05-20,GDP growth slows but beats revised expectations,,Reuters,0.764,0.0817,0.1543,positive,0.6823
+2021-05-21,MSFT trading near 50-day moving average,MSFT,Yahoo Finance,0.2148,0.0794,0.7057,neutral,0.1354
+2021-05-21,Options activity in GOOGL suggests sideways movement,GOOGL,Yahoo Finance,0.0789,0.2366,0.6846,neutral,-0.1577
+2021-05-21,QQQ CFO departure raises governance questions,QQQ,Reuters,0.0571,0.4779,0.465,neutral,-0.4208
+2021-05-24,Market rally lifts QQQ to new 52-week high,QQQ,Yahoo Finance,0.6045,0.1067,0.2888,positive,0.4978
+2021-05-24,S&P 500 closes at session highs on broad rally,,Reuters,0.7328,0.1178,0.1494,positive,0.615
+2021-05-25,GOOGL layoffs signal deeper problems in core business,GOOGL,CNBC,0.0677,0.6209,0.3114,negative,-0.5532
+2021-05-25,Cryptocurrency volatility spills over into tech stocks,,MarketWatch,0.281,0.0099,0.7091,neutral,0.2711
+2021-05-26,MSFT announces major share buyback program,MSFT,CNBC,0.2546,0.0189,0.7265,neutral,0.2357
+2021-05-27,QQQ faces regulatory scrutiny over business practices,QQQ,Yahoo Finance,0.1388,0.8046,0.0566,negative,-0.6659
+2021-05-27,Market rally lifts MSFT to new 52-week high,MSFT,Reuters,0.8142,0.144,0.0417,positive,0.6702
+2021-05-27,Market rally lifts GOOGL to new 52-week high,GOOGL,Yahoo Finance,0.5592,0.1398,0.301,positive,0.4194
+2021-05-28,QQQ dividend increase signals management confidence,QQQ,CNBC,0.7556,0.0345,0.2098,positive,0.7211
+2021-05-28,Analysts downgrade MSFT citing valuation concerns,MSFT,CNBC,0.1308,0.6295,0.2397,negative,-0.4987
+2021-05-31,Strong consumer demand drives GOOGL sales higher,GOOGL,MarketWatch,0.7373,0.1478,0.115,positive,0.5895
+2021-05-31,Sector rotation leaves QQQ flat on the day,QQQ,CNBC,0.1531,0.3616,0.4853,neutral,-0.2085
+2021-06-01,Options activity in QQQ suggests sideways movement,QQQ,MarketWatch,0.179,0.2714,0.5496,neutral,-0.0924
+2021-06-02,Manufacturing PMI signals contraction for third month,,Reuters,0.106,0.7844,0.1096,negative,-0.6784
+2021-06-02,Options activity in MSFT suggests sideways movement,MSFT,Bloomberg,0.0722,0.4774,0.4504,neutral,-0.4051
+2021-06-03,AAPL announces major share buyback program,AAPL,Bloomberg,0.2661,0.2733,0.4605,neutral,-0.0072
+2021-06-03,GOOGL holds investor day with no major announcements,GOOGL,Reuters,0.1418,0.3142,0.544,neutral,-0.1725
+2021-06-04,Trading volume in QQQ remains steady ahead of earnings,QQQ,Reuters,0.2623,0.1526,0.5851,neutral,0.1098
+2021-06-07,QQQ profit margins expand amid cost cutting efforts,QQQ,CNBC,0.0797,0.4661,0.4542,neutral,-0.3864
+2021-06-07,Cryptocurrency volatility spills over into tech stocks,,Bloomberg,0.291,0.0535,0.6555,neutral,0.2375
+2021-06-08,Competition intensifies as MSFT loses market share,MSFT,Yahoo Finance,0.0539,0.7878,0.1582,negative,-0.7339
+2021-06-10,MSFT announces major share buyback program,MSFT,MarketWatch,0.2937,0.1003,0.606,neutral,0.1934
+2021-06-10,SPY faces class action lawsuit from shareholders,SPY,CNBC,0.0686,0.7454,0.1861,negative,-0.6768
+2021-06-11,"Fed signals potential rate changes, markets react",,Bloomberg,0.2918,0.1432,0.565,neutral,0.1485
+2021-06-14,Housing market shows signs of cooling as rates rise,,CNBC,0.2218,0.1125,0.6657,neutral,0.1093
+2021-06-14,MSFT secures major government contract worth billions,MSFT,CNBC,0.6359,0.0927,0.2714,positive,0.5431
+2021-06-14,AAPL faces regulatory scrutiny over business practices,AAPL,CNBC,0.0512,0.682,0.2668,negative,-0.6308
+2021-06-15,"MSFT beats earnings expectations, shares surge",MSFT,CNBC,0.8814,0.0698,0.0488,positive,0.8115
+2021-06-15,QQQ completes previously announced restructuring,QQQ,Reuters,0.2829,0.1822,0.5348,neutral,0.1007
+2021-06-16,GOOGL board approves routine corporate matters,GOOGL,CNBC,0.2364,0.2544,0.5092,neutral,-0.018
+2021-06-16,GOOGL board approves routine corporate matters,GOOGL,Yahoo Finance,0.2801,0.0741,0.6458,neutral,0.2061
+2021-06-17,Analysts maintain hold rating on MSFT,MSFT,CNBC,0.2263,0.0741,0.6996,neutral,0.1523
+2021-06-21,Dollar strengthens as global growth concerns persist,,Yahoo Finance,0.0844,0.6664,0.2492,negative,-0.582
+2021-06-22,Wall Street bullish on MSFT growth prospects,MSFT,Reuters,0.8995,0.023,0.0775,positive,0.8764
+2021-06-22,AAPL layoffs signal deeper problems in core business,AAPL,CNBC,0.0527,0.8439,0.1034,negative,-0.7912
+2021-06-22,Options activity in MSFT suggests sideways movement,MSFT,Yahoo Finance,0.1081,0.3864,0.5055,neutral,-0.2784
+2021-06-23,Manufacturing PMI signals contraction for third month,,Yahoo Finance,0.149,0.5721,0.2789,negative,-0.4232
+2021-06-24,Central banks globally signal tightening monetary policy,,Yahoo Finance,0.1803,0.1088,0.711,neutral,0.0715
+2021-06-24,QQQ maintains dividend at current levels,QQQ,Yahoo Finance,0.1891,0.1463,0.6645,neutral,0.0428
+2021-06-25,"Fed signals potential rate changes, markets react",,Reuters,0.2612,0.0453,0.6935,neutral,0.2159
+2021-06-28,SPY to present at upcoming investor conference,SPY,Reuters,0.1649,0.3152,0.5198,neutral,-0.1503
+2021-06-28,Trading volume in MSFT remains steady ahead of earnings,MSFT,MarketWatch,0.2946,0.0649,0.6405,neutral,0.2297
+2021-07-01,MSFT to present at upcoming investor conference,MSFT,Bloomberg,0.2744,0.0708,0.6548,neutral,0.2036
+2021-07-02,Trading volume in GOOGL remains steady ahead of earnings,GOOGL,Reuters,0.1955,0.1007,0.7038,neutral,0.0949
+2021-07-02,SPY warns of supply chain disruptions impacting margins,SPY,Bloomberg,0.0691,0.8807,0.0503,negative,-0.8116
+2021-07-06,Strong consumer demand drives MSFT sales higher,MSFT,Reuters,0.6903,0.1215,0.1881,positive,0.5688
+2021-07-06,GOOGL announces leadership transition plan,GOOGL,Yahoo Finance,0.1265,0.3832,0.4904,neutral,-0.2567
+2021-07-07,Housing market shows signs of cooling as rates rise,,MarketWatch,0.155,0.2124,0.6326,neutral,-0.0574
+2021-07-07,Mixed signals for SPY as sector consolidates,SPY,Bloomberg,0.2807,0.0097,0.7096,neutral,0.271
+2021-07-07,MSFT trading near 50-day moving average,MSFT,Yahoo Finance,0.1848,0.2145,0.6008,neutral,-0.0297
+2021-07-08,AAPL dividend increase signals management confidence,AAPL,CNBC,0.8181,0.0794,0.1024,positive,0.7387
+2021-07-08,Manufacturing PMI signals contraction for third month,,Yahoo Finance,0.1171,0.6203,0.2626,negative,-0.5032
+2021-07-09,AAPL expands into new market with strategic acquisition,AAPL,Reuters,0.823,0.0518,0.1252,positive,0.7711
+2021-07-09,QQQ expands into new market with strategic acquisition,QQQ,MarketWatch,0.8582,0.0998,0.042,positive,0.7584
+2021-07-13,Market rally lifts GOOGL to new 52-week high,GOOGL,CNBC,0.6374,0.1048,0.2578,positive,0.5327
+2021-07-14,GOOGL expands into new market with strategic acquisition,GOOGL,Bloomberg,0.6364,0.0545,0.3091,positive,0.582
+2021-07-14,QQQ CFO departure raises governance questions,QQQ,Bloomberg,0.2824,0.0132,0.7044,neutral,0.2691
+2021-07-15,MSFT holds investor day with no major announcements,MSFT,CNBC,0.282,0.1909,0.5271,neutral,0.0911
+2021-07-15,Small caps outperform as risk appetite improves,,MarketWatch,0.6384,0.0352,0.3264,positive,0.6031
+2021-07-16,Rising costs pressure MSFT profit margins,MSFT,Yahoo Finance,0.0515,0.5715,0.377,negative,-0.5201
+2021-07-19,Sector rotation leaves AAPL flat on the day,AAPL,CNBC,0.2819,0.1525,0.5656,neutral,0.1293
+2021-07-20,AAPL announces major share buyback program,AAPL,Bloomberg,0.1414,0.336,0.5226,neutral,-0.1946
+2021-07-20,Consumer confidence drops to lowest level in six months,,MarketWatch,0.0593,0.8216,0.1191,negative,-0.7624
+2021-07-22,AAPL faces class action lawsuit from shareholders,AAPL,MarketWatch,0.0762,0.8032,0.1206,negative,-0.727
+2021-07-26,SPY to present at upcoming investor conference,SPY,CNBC,0.2335,0.2576,0.5089,neutral,-0.024
+2021-07-27,Sector rotation leaves GOOGL flat on the day,GOOGL,CNBC,0.1231,0.4188,0.4581,neutral,-0.2957
+2021-07-27,Manufacturing PMI signals contraction for third month,,CNBC,0.0796,0.6818,0.2386,negative,-0.6022
+2021-07-29,Market selloff drags SPY below key support levels,SPY,Bloomberg,0.0797,0.8016,0.1187,negative,-0.7218
+2021-07-29,MSFT to present at upcoming investor conference,MSFT,Bloomberg,0.1989,0.1728,0.6283,neutral,0.0262
+2021-07-30,Analysts maintain hold rating on GOOGL,GOOGL,CNBC,0.2835,0.1545,0.562,neutral,0.129
+2021-08-02,Central banks globally signal tightening monetary policy,,MarketWatch,0.1955,0.0678,0.7368,neutral,0.1277
+2021-08-03,MSFT raises full-year guidance above consensus,MSFT,Bloomberg,0.5765,0.0838,0.3396,positive,0.4927
+2021-08-03,GDP growth slows but beats revised expectations,,Bloomberg,0.6182,0.0828,0.2989,positive,0.5354
+2021-08-03,Options activity in AAPL suggests sideways movement,AAPL,Yahoo Finance,0.226,0.2675,0.5065,neutral,-0.0415
+2021-08-04,QQQ faces class action lawsuit from shareholders,QQQ,Yahoo Finance,0.1439,0.5798,0.2763,negative,-0.4358
+2021-08-04,GOOGL completes previously announced restructuring,GOOGL,Reuters,0.2152,0.2762,0.5086,neutral,-0.0611
+2021-08-06,MSFT announces major share buyback program,MSFT,MarketWatch,0.112,0.1629,0.7251,neutral,-0.051
+2021-08-11,Earnings season kicks off with mixed bank results,,MarketWatch,0.1472,0.1225,0.7303,neutral,0.0246
+2021-08-11,SPY warns of supply chain disruptions impacting margins,SPY,Bloomberg,0.1378,0.8528,0.0094,negative,-0.715
+2021-08-12,AAPL faces regulatory scrutiny over business practices,AAPL,Bloomberg,0.128,0.6196,0.2524,negative,-0.4915
+2021-08-13,"GOOGL misses revenue estimates, stock drops",GOOGL,Bloomberg,0.0494,0.6216,0.329,negative,-0.5721
+2021-08-13,SPY reports results in line with expectations,SPY,Reuters,0.0891,0.4356,0.4752,neutral,-0.3465
+2021-08-17,Rising costs pressure MSFT profit margins,MSFT,Yahoo Finance,0.0784,0.7839,0.1377,negative,-0.7055
+2021-08-17,Small caps outperform as risk appetite improves,,Bloomberg,0.8426,0.0632,0.0942,positive,0.7795
+2021-08-17,Sector rotation leaves MSFT flat on the day,MSFT,Bloomberg,0.0625,0.1969,0.7406,neutral,-0.1345
+2021-08-18,Trading volume in SPY remains steady ahead of earnings,SPY,CNBC,0.2253,0.3058,0.4689,neutral,-0.0804
+2021-08-19,Markets tumble on recession fears and weak economic data,,Yahoo Finance,0.122,0.8681,0.0099,negative,-0.7462
+2021-08-19,MSFT expands into new market with strategic acquisition,MSFT,MarketWatch,0.7312,0.0551,0.2137,positive,0.6762
+2021-08-20,Analysts maintain hold rating on SPY,SPY,Reuters,0.1774,0.3686,0.454,neutral,-0.1912
+2021-08-23,Market rally lifts GOOGL to new 52-week high,GOOGL,Yahoo Finance,0.726,0.0648,0.2093,positive,0.6612
+2021-08-24,SPY faces regulatory scrutiny over business practices,SPY,MarketWatch,0.1147,0.7639,0.1214,negative,-0.6491
+2021-08-25,GOOGL hit by data breach affecting millions of users,GOOGL,MarketWatch,0.0542,0.8093,0.1364,negative,-0.7551
+2021-08-26,MSFT expands into new market with strategic acquisition,MSFT,Bloomberg,0.7666,0.0393,0.1941,positive,0.7272
+2021-08-27,Small caps outperform as risk appetite improves,,CNBC,0.595,0.1222,0.2828,positive,0.4728
+2021-08-30,Options activity in GOOGL suggests sideways movement,GOOGL,MarketWatch,0.242,0.0999,0.6581,neutral,0.1421
+2021-08-30,Markets tumble on recession fears and weak economic data,,Reuters,0.1389,0.6064,0.2547,negative,-0.4675
+2021-08-30,Analysts maintain hold rating on QQQ,QQQ,Yahoo Finance,0.2675,0.2426,0.4899,neutral,0.025
+2021-08-31,Trading volume in QQQ remains steady ahead of earnings,QQQ,MarketWatch,0.0764,0.3679,0.5557,neutral,-0.2916
+2021-09-02,Concerns mount over QQQ slowing growth trajectory,QQQ,CNBC,0.0436,0.6561,0.3003,negative,-0.6125
+2021-09-02,Institutional investors increase holdings in GOOGL,GOOGL,Bloomberg,0.7315,0.1435,0.125,positive,0.5881
+2021-09-06,QQQ reports results in line with expectations,QQQ,Bloomberg,0.203,0.2486,0.5484,neutral,-0.0456
+2021-09-06,MSFT faces class action lawsuit from shareholders,MSFT,Reuters,0.1019,0.8799,0.0182,negative,-0.778
+2021-09-07,Trade tensions weigh on AAPL international revenue,AAPL,CNBC,0.2977,0.1436,0.5587,neutral,0.1541
+2021-09-08,GOOGL reports record revenue in Q2 results,GOOGL,Reuters,0.6193,0.088,0.2926,positive,0.5313
+2021-09-09,AAPL holds investor day with no major announcements,AAPL,Yahoo Finance,0.0502,0.2608,0.689,neutral,-0.2107
+2021-09-09,"QQQ misses revenue estimates, stock drops",QQQ,MarketWatch,0.0546,0.8098,0.1356,negative,-0.7551
+2021-09-10,GOOGL faces class action lawsuit from shareholders,GOOGL,CNBC,0.0556,0.6128,0.3316,negative,-0.5572
+2021-09-10,MSFT reports record revenue in Q3 results,MSFT,CNBC,0.8615,0.129,0.0095,positive,0.7325
+2021-09-10,Consumer confidence drops to lowest level in six months,,MarketWatch,0.0352,0.6291,0.3357,negative,-0.5939
+2021-09-13,MSFT trading near 50-day moving average,MSFT,Yahoo Finance,0.1981,0.2427,0.5592,neutral,-0.0446
+2021-09-13,SPY hit by data breach affecting millions of users,SPY,Bloomberg,0.1418,0.8484,0.0097,negative,-0.7066
+2021-09-13,AAPL hit by data breach affecting millions of users,AAPL,Yahoo Finance,0.0979,0.8279,0.0742,negative,-0.7301
+2021-09-14,GOOGL to present at upcoming investor conference,GOOGL,Bloomberg,0.0685,0.4388,0.4927,neutral,-0.3703
+2021-09-15,Strong consumer demand drives SPY sales higher,SPY,CNBC,0.7705,0.0901,0.1394,positive,0.6805
+2021-09-16,Earnings season kicks off with mixed bank results,,CNBC,0.1307,0.1655,0.7038,neutral,-0.0349
+2021-09-16,AAPL cloud revenue growth accelerates in latest quarter,AAPL,MarketWatch,0.5647,0.0751,0.3602,positive,0.4896
+2021-09-20,Cryptocurrency volatility spills over into tech stocks,,CNBC,0.2489,0.0104,0.7408,neutral,0.2385
+2021-09-20,MSFT reports record revenue in Q3 results,MSFT,CNBC,0.5625,0.1337,0.3038,positive,0.4288
+2021-09-21,AAPL maintains dividend at current levels,AAPL,Reuters,0.1412,0.2673,0.5915,neutral,-0.1261
+2021-09-22,MSFT maintains dividend at current levels,MSFT,Bloomberg,0.1988,0.2472,0.554,neutral,-0.0484
+2021-09-22,Global markets rally on trade deal optimism,,MarketWatch,0.7463,0.1054,0.1483,positive,0.641
+2021-09-23,S&P 500 closes at session highs on broad rally,,CNBC,0.7622,0.0387,0.199,positive,0.7235
+2021-09-23,Concerns mount over AAPL slowing growth trajectory,AAPL,Bloomberg,0.1293,0.6452,0.2255,negative,-0.5158
+2021-09-27,MSFT announces leadership transition plan,MSFT,MarketWatch,0.1621,0.1889,0.649,neutral,-0.0268
+2021-09-28,GDP growth slows but beats revised expectations,,CNBC,0.6176,0.021,0.3614,positive,0.5966
+2021-09-28,"QQQ misses revenue estimates, stock drops",QQQ,MarketWatch,0.0271,0.6654,0.3075,negative,-0.6383
+2021-09-29,Market selloff drags MSFT below key support levels,MSFT,Yahoo Finance,0.1268,0.7284,0.1447,negative,-0.6016
+2021-09-29,AAPL announces major share buyback program,AAPL,Bloomberg,0.2619,0.2024,0.5356,neutral,0.0595
+2021-09-30,Institutional investors increase holdings in MSFT,MSFT,Yahoo Finance,0.8107,0.0363,0.153,positive,0.7744
+2021-09-30,Rising costs pressure GOOGL profit margins,GOOGL,Reuters,0.0397,0.7885,0.1718,negative,-0.7488
+2021-09-30,Wall Street bullish on GOOGL growth prospects,GOOGL,MarketWatch,0.7923,0.0386,0.1692,positive,0.7537
+2021-10-01,Cryptocurrency volatility spills over into tech stocks,,Yahoo Finance,0.1916,0.2406,0.5678,neutral,-0.0489
+2021-10-05,SPY announces major share buyback program,SPY,Yahoo Finance,0.0883,0.4466,0.4651,neutral,-0.3582
+2021-10-05,Analysts maintain hold rating on QQQ,QQQ,Bloomberg,0.1656,0.2883,0.5461,neutral,-0.1227
+2021-10-05,AAPL dividend increase signals management confidence,AAPL,CNBC,0.8676,0.0443,0.088,positive,0.8233
+2021-10-07,QQQ layoffs signal deeper problems in core business,QQQ,MarketWatch,0.0819,0.6786,0.2396,negative,-0.5967
+2021-10-08,Trading volume in MSFT remains steady ahead of earnings,MSFT,MarketWatch,0.2064,0.2548,0.5387,neutral,-0.0484
+2021-10-11,QQQ dividend increase signals management confidence,QQQ,Bloomberg,0.6449,0.1204,0.2347,positive,0.5245
+2021-10-11,Market selloff drags MSFT below key support levels,MSFT,MarketWatch,0.0312,0.7369,0.2319,negative,-0.7057
+2021-10-11,Consumer confidence drops to lowest level in six months,,Yahoo Finance,0.094,0.782,0.124,negative,-0.688
+2021-10-12,Options activity in AAPL suggests sideways movement,AAPL,Reuters,0.0528,0.3956,0.5516,neutral,-0.3428
+2021-10-13,Institutional investors increase holdings in GOOGL,GOOGL,Bloomberg,0.6243,0.0727,0.303,positive,0.5515
+2021-10-14,Tech sector leads market decline on growth concerns,,MarketWatch,0.0951,0.624,0.281,negative,-0.5289
+2021-10-18,Mixed signals for GOOGL as sector consolidates,GOOGL,CNBC,0.264,0.0723,0.6637,neutral,0.1917
+2021-10-18,Trade tensions weigh on AAPL international revenue,AAPL,Reuters,0.2223,0.1337,0.6441,neutral,0.0886
+2021-10-19,MSFT board approves routine corporate matters,MSFT,CNBC,0.2964,0.0711,0.6325,neutral,0.2253
+2021-10-19,S&P 500 closes at session highs on broad rally,,Bloomberg,0.6466,0.0546,0.2988,positive,0.592
+2021-10-20,MSFT profit margins expand amid cost cutting efforts,MSFT,CNBC,0.1714,0.3407,0.4879,neutral,-0.1693
+2021-10-22,Rising costs pressure QQQ profit margins,QQQ,Yahoo Finance,0.0551,0.5856,0.3593,negative,-0.5305
+2021-10-26,Analysts downgrade GOOGL citing valuation concerns,GOOGL,Yahoo Finance,0.1445,0.7286,0.1269,negative,-0.5841
+2021-10-26,MSFT CFO departure raises governance questions,MSFT,MarketWatch,0.2359,0.0249,0.7391,neutral,0.211
+2021-10-26,MSFT cloud revenue growth accelerates in latest quarter,MSFT,Reuters,0.694,0.1325,0.1735,positive,0.5616
+2021-10-27,QQQ files routine regulatory paperwork,QQQ,CNBC,0.2775,0.01,0.7125,neutral,0.2675
+2021-10-27,Market selloff drags AAPL below key support levels,AAPL,MarketWatch,0.0462,0.7868,0.167,negative,-0.7406
+2021-10-27,MSFT profit margins expand amid cost cutting efforts,MSFT,Bloomberg,0.2787,0.244,0.4773,neutral,0.0347
+2021-10-28,GOOGL CFO departure raises governance questions,GOOGL,Bloomberg,0.124,0.4094,0.4667,neutral,-0.2854
+2021-10-28,Analysts maintain hold rating on MSFT,MSFT,MarketWatch,0.0555,0.3484,0.5961,neutral,-0.2929
+2021-10-29,QQQ announces leadership transition plan,QQQ,Reuters,0.1218,0.1561,0.7221,neutral,-0.0344
+2021-11-01,Treasury yields climb as inflation data tops expectations,,CNBC,0.2984,0.2431,0.4586,neutral,0.0553
+2021-11-01,SPY announces leadership transition plan,SPY,Reuters,0.2692,0.1874,0.5434,neutral,0.0818
+2021-11-01,AAPL profit margins expand amid cost cutting efforts,AAPL,Yahoo Finance,0.2158,0.1982,0.586,neutral,0.0176
+2021-11-02,SPY maintains dividend at current levels,SPY,Bloomberg,0.1757,0.302,0.5223,neutral,-0.1262
+2021-11-04,MSFT lowers guidance amid macroeconomic headwinds,MSFT,Reuters,0.1436,0.6453,0.211,negative,-0.5017
+2021-11-05,Earnings season kicks off with mixed bank results,,CNBC,0.1187,0.413,0.4683,neutral,-0.2944
+2021-11-09,QQQ hit by data breach affecting millions of users,QQQ,Reuters,0.0824,0.8805,0.0371,negative,-0.798
+2021-11-10,Concerns mount over GOOGL slowing growth trajectory,GOOGL,MarketWatch,0.1047,0.772,0.1232,negative,-0.6673
+2021-11-10,Rising costs pressure QQQ profit margins,QQQ,MarketWatch,0.0223,0.5762,0.4015,negative,-0.5539
+2021-11-10,Oil prices surge on geopolitical tensions in Middle East,,Reuters,0.897,0.0553,0.0477,positive,0.8417
+2021-11-15,Sector rotation leaves AAPL flat on the day,AAPL,Bloomberg,0.2205,0.2154,0.5641,neutral,0.0051
+2021-11-16,Rising costs pressure SPY profit margins,SPY,Bloomberg,0.1153,0.6374,0.2473,negative,-0.5221
+2021-11-18,Analysts maintain hold rating on GOOGL,GOOGL,Yahoo Finance,0.2642,0.1484,0.5875,neutral,0.1158
+2021-11-19,Institutional investors increase holdings in AAPL,AAPL,CNBC,0.6531,0.0465,0.3004,positive,0.6066
+2021-11-22,AAPL completes previously announced restructuring,AAPL,Bloomberg,0.1316,0.1689,0.6995,neutral,-0.0373
+2021-11-23,MSFT faces regulatory scrutiny over business practices,MSFT,Yahoo Finance,0.1232,0.7024,0.1744,negative,-0.5792
+2021-11-23,MSFT announces major share buyback program,MSFT,MarketWatch,0.1604,0.1989,0.6407,neutral,-0.0385
+2021-11-24,AAPL warns of supply chain disruptions impacting margins,AAPL,CNBC,0.1193,0.6425,0.2382,negative,-0.5231
+2021-11-24,SPY warns of supply chain disruptions impacting margins,SPY,MarketWatch,0.1407,0.6168,0.2426,negative,-0.4761
+2021-11-26,MSFT faces class action lawsuit from shareholders,MSFT,Reuters,0.1246,0.6056,0.2697,negative,-0.481
+2021-11-29,AAPL board approves routine corporate matters,AAPL,Reuters,0.0965,0.3262,0.5773,neutral,-0.2297
+2021-11-29,AAPL hit by data breach affecting millions of users,AAPL,Yahoo Finance,0.0488,0.6989,0.2523,negative,-0.6501
+2021-11-30,SPY cloud revenue growth accelerates in latest quarter,SPY,CNBC,0.6003,0.0511,0.3486,positive,0.5492
+2021-11-30,GOOGL reports results in line with expectations,GOOGL,Reuters,0.0765,0.2133,0.7102,neutral,-0.1368
+2021-11-30,AAPL announces leadership transition plan,AAPL,CNBC,0.0512,0.207,0.7418,neutral,-0.1557
+2021-12-01,Trading volume in QQQ remains steady ahead of earnings,QQQ,MarketWatch,0.2641,0.0884,0.6475,neutral,0.1757
+2021-12-01,AAPL holds investor day with no major announcements,AAPL,Reuters,0.086,0.1838,0.7302,neutral,-0.0978
+2021-12-02,MSFT warns of supply chain disruptions impacting margins,MSFT,Bloomberg,0.034,0.8083,0.1577,negative,-0.7744
+2021-12-02,Market rally lifts SPY to new 52-week high,SPY,Yahoo Finance,0.6805,0.1152,0.2044,positive,0.5653
+2021-12-03,Trading volume in QQQ remains steady ahead of earnings,QQQ,MarketWatch,0.1283,0.3179,0.5538,neutral,-0.1895
+2021-12-07,Retail investors drive unusual options activity,,Yahoo Finance,0.0666,0.4486,0.4848,neutral,-0.382
+2021-12-07,Global markets rally on trade deal optimism,,Yahoo Finance,0.5927,0.1338,0.2735,positive,0.4588
+2021-12-08,Options activity in GOOGL suggests sideways movement,GOOGL,CNBC,0.2232,0.3234,0.4534,neutral,-0.1002
+2021-12-10,AAPL maintains dividend at current levels,AAPL,Bloomberg,0.192,0.1274,0.6806,neutral,0.0645
+2021-12-13,QQQ announces leadership transition plan,QQQ,Yahoo Finance,0.2131,0.1177,0.6692,neutral,0.0954
+2021-12-14,Strong consumer demand drives GOOGL sales higher,GOOGL,MarketWatch,0.7186,0.0698,0.2117,positive,0.6488
+2021-12-14,SPY faces regulatory scrutiny over business practices,SPY,Bloomberg,0.1388,0.8517,0.0095,negative,-0.713
+2021-12-14,Cryptocurrency volatility spills over into tech stocks,,Yahoo Finance,0.0993,0.2553,0.6454,neutral,-0.156
+2021-12-15,Analysts downgrade SPY citing valuation concerns,SPY,Bloomberg,0.0845,0.7157,0.1997,negative,-0.6312
+2021-12-15,Manufacturing PMI signals contraction for third month,,Yahoo Finance,0.1068,0.8304,0.0627,negative,-0.7236
+2021-12-15,Markets tumble on recession fears and weak economic data,,Reuters,0.1084,0.7405,0.1511,negative,-0.632
+2021-12-17,GOOGL holds investor day with no major announcements,GOOGL,CNBC,0.2442,0.2986,0.4572,neutral,-0.0545
+2021-12-17,Institutional investors increase holdings in AAPL,AAPL,MarketWatch,0.6283,0.1053,0.2664,positive,0.523
+2021-12-17,Oil prices surge on geopolitical tensions in Middle East,,CNBC,0.5922,0.0349,0.3729,positive,0.5573
+2021-12-20,SPY launches innovative product to positive reviews,SPY,MarketWatch,0.5632,0.1383,0.2985,positive,0.4249
+2021-12-20,AAPL files routine regulatory paperwork,AAPL,Bloomberg,0.1405,0.2281,0.6314,neutral,-0.0877
+2021-12-20,MSFT faces regulatory scrutiny over business practices,MSFT,Reuters,0.1014,0.8415,0.0571,negative,-0.7401
+2021-12-21,AAPL secures major government contract worth billions,AAPL,Bloomberg,0.7794,0.0833,0.1373,positive,0.6961
+2021-12-21,Competition intensifies as AAPL loses market share,AAPL,CNBC,0.0536,0.5529,0.3935,negative,-0.4993
+2021-12-21,Options activity in QQQ suggests sideways movement,QQQ,CNBC,0.2156,0.3017,0.4827,neutral,-0.0861
+2021-12-22,QQQ reports record revenue in Q1 results,QQQ,Yahoo Finance,0.642,0.0785,0.2795,positive,0.5635
+2021-12-22,Mixed signals for AAPL as sector consolidates,AAPL,Reuters,0.0858,0.3582,0.556,neutral,-0.2724
+2021-12-23,Mixed signals for GOOGL as sector consolidates,GOOGL,Yahoo Finance,0.2749,0.0097,0.7154,neutral,0.2652
+2021-12-23,Central banks globally signal tightening monetary policy,,Reuters,0.2568,0.2678,0.4754,neutral,-0.0109
+2021-12-24,Small caps outperform as risk appetite improves,,Reuters,0.7307,0.1206,0.1487,positive,0.6101
+2021-12-27,QQQ volume picks up ahead of next week earnings,QQQ,Reuters,0.0831,0.4216,0.4953,neutral,-0.3385
+2021-12-29,Bond market inversion deepens recession concerns,,Yahoo Finance,0.1332,0.857,0.0097,negative,-0.7238
+2021-12-29,QQQ warns of supply chain disruptions impacting margins,QQQ,MarketWatch,0.1331,0.7224,0.1445,negative,-0.5893
+2021-12-30,Options activity in QQQ suggests sideways movement,QQQ,Yahoo Finance,0.0963,0.2535,0.6502,neutral,-0.1573
+2021-12-31,Trading volume in SPY remains steady ahead of earnings,SPY,Reuters,0.084,0.3673,0.5487,neutral,-0.2833
+2021-12-31,Small caps outperform as risk appetite improves,,Bloomberg,0.8364,0.1481,0.0156,positive,0.6883
+2022-01-03,"Fed signals potential rate changes, markets react",,Reuters,0.214,0.1721,0.6139,neutral,0.0418
+2022-01-04,SPY warns of supply chain disruptions impacting margins,SPY,CNBC,0.0492,0.8261,0.1248,negative,-0.7769
+2022-01-05,SPY dividend increase signals management confidence,SPY,CNBC,0.6743,0.0736,0.2521,positive,0.6007
+2022-01-06,GDP growth slows but beats revised expectations,,Bloomberg,0.77,0.1306,0.0994,positive,0.6394
+2022-01-07,Earnings season kicks off with mixed bank results,,MarketWatch,0.1677,0.306,0.5263,neutral,-0.1383
+2022-01-07,MSFT announces leadership transition plan,MSFT,MarketWatch,0.0718,0.2527,0.6755,neutral,-0.1808
+2022-01-11,GOOGL reports results in line with expectations,GOOGL,CNBC,0.0861,0.31,0.6039,neutral,-0.2239
+2022-01-11,Analysts maintain hold rating on SPY,SPY,CNBC,0.242,0.1463,0.6117,neutral,0.0957
+2022-01-12,MSFT volume picks up ahead of next week earnings,MSFT,Yahoo Finance,0.2624,0.2165,0.5211,neutral,0.0458
+2022-01-13,Sector rotation leaves MSFT flat on the day,MSFT,Yahoo Finance,0.0977,0.3519,0.5504,neutral,-0.2542
+2022-01-13,GOOGL lowers guidance amid macroeconomic headwinds,GOOGL,Yahoo Finance,0.1339,0.7222,0.1439,negative,-0.5883
+2022-01-14,Analysts downgrade AAPL citing valuation concerns,AAPL,CNBC,0.0626,0.5755,0.3619,negative,-0.5129
+2022-01-14,GOOGL hit by data breach affecting millions of users,GOOGL,CNBC,0.0665,0.7917,0.1418,negative,-0.7252
+2022-01-14,GOOGL trading near 50-day moving average,GOOGL,Yahoo Finance,0.133,0.3958,0.4712,neutral,-0.2628
+2022-01-18,Market rally lifts SPY to new 52-week high,SPY,CNBC,0.8456,0.1445,0.0099,positive,0.7012
+2022-01-20,Sector rotation leaves QQQ flat on the day,QQQ,Bloomberg,0.1923,0.3457,0.4619,neutral,-0.1534
+2022-01-20,MSFT secures major government contract worth billions,MSFT,CNBC,0.589,0.1085,0.3026,positive,0.4805
+2022-01-21,SPY completes previously announced restructuring,SPY,CNBC,0.0537,0.4939,0.4524,neutral,-0.4403
+2022-01-24,Tech sector leads market decline on growth concerns,,Bloomberg,0.0297,0.8374,0.1329,negative,-0.8078
+2022-01-24,Retail investors drive unusual options activity,,Reuters,0.2895,0.1689,0.5416,neutral,0.1206
+2022-01-24,Analysts maintain hold rating on MSFT,MSFT,Yahoo Finance,0.0904,0.1641,0.7456,neutral,-0.0737
+2022-01-25,Treasury yields climb as inflation data tops expectations,,Yahoo Finance,0.1898,0.1919,0.6183,neutral,-0.0022
+2022-01-25,SPY files routine regulatory paperwork,SPY,Reuters,0.2812,0.1331,0.5857,neutral,0.1481
+2022-01-26,SPY trading near 50-day moving average,SPY,Yahoo Finance,0.2411,0.0827,0.6762,neutral,0.1585
+2022-01-28,AAPL files routine regulatory paperwork,AAPL,Yahoo Finance,0.1586,0.3105,0.5309,neutral,-0.152
+2022-01-28,GOOGL warns of supply chain disruptions impacting margins,GOOGL,Bloomberg,0.0589,0.7303,0.2108,negative,-0.6715
+2022-02-01,Concerns mount over GOOGL slowing growth trajectory,GOOGL,Reuters,0.0364,0.5851,0.3785,negative,-0.5487
+2022-02-01,MSFT launches innovative product to positive reviews,MSFT,Yahoo Finance,0.6168,0.0465,0.3367,positive,0.5704
+2022-02-02,Retail investors drive unusual options activity,,MarketWatch,0.1139,0.3635,0.5227,neutral,-0.2496
+2022-02-03,SPY lowers guidance amid macroeconomic headwinds,SPY,MarketWatch,0.0862,0.7186,0.1951,negative,-0.6324
+2022-02-03,MSFT to present at upcoming investor conference,MSFT,MarketWatch,0.2768,0.1805,0.5427,neutral,0.0963
+2022-02-07,Consumer confidence drops to lowest level in six months,,Yahoo Finance,0.1224,0.7547,0.123,negative,-0.6323
+2022-02-09,Analysts upgrade AAPL to 'buy' after strong quarter,AAPL,Bloomberg,0.892,0.0412,0.0668,positive,0.8508
+2022-02-09,SPY raises full-year guidance above consensus,SPY,Reuters,0.7083,0.0763,0.2154,positive,0.632
+2022-02-09,Strong consumer demand drives MSFT sales higher,MSFT,Reuters,0.6812,0.0212,0.2977,positive,0.66
+2022-02-10,SPY completes previously announced restructuring,SPY,MarketWatch,0.0779,0.2273,0.6948,neutral,-0.1494
+2022-02-10,MSFT faces regulatory scrutiny over business practices,MSFT,CNBC,0.1149,0.8756,0.0095,negative,-0.7607
+2022-02-10,QQQ raises full-year guidance above consensus,QQQ,Bloomberg,0.7646,0.0401,0.1953,positive,0.7245
+2022-02-11,AAPL profit margins expand amid cost cutting efforts,AAPL,Yahoo Finance,0.1153,0.2801,0.6046,neutral,-0.1648
+2022-02-11,Analysts upgrade QQQ to 'buy' after strong quarter,QQQ,Yahoo Finance,0.6434,0.1278,0.2288,positive,0.5155
+2022-02-14,Options activity in MSFT suggests sideways movement,MSFT,CNBC,0.1627,0.2731,0.5642,neutral,-0.1104
+2022-02-15,MSFT board approves routine corporate matters,MSFT,Bloomberg,0.0719,0.2252,0.7029,neutral,-0.1532
+2022-02-15,VIX spikes as volatility returns to equity markets,,MarketWatch,0.1946,0.1771,0.6284,neutral,0.0175
+2022-02-17,AAPL reports record revenue in Q4 results,AAPL,Yahoo Finance,0.7073,0.1279,0.1648,positive,0.5795
+2022-02-18,Housing market shows signs of cooling as rates rise,,MarketWatch,0.1663,0.1008,0.7329,neutral,0.0655
+2022-02-18,Sector rotation leaves GOOGL flat on the day,GOOGL,Yahoo Finance,0.1755,0.2376,0.5868,neutral,-0.0621
+2022-02-21,MSFT announces major share buyback program,MSFT,Yahoo Finance,0.217,0.116,0.6669,neutral,0.101
+2022-02-21,AAPL faces regulatory scrutiny over business practices,AAPL,Reuters,0.0283,0.6324,0.3392,negative,-0.6041
+2022-02-22,Consumer confidence drops to lowest level in six months,,Bloomberg,0.0539,0.9012,0.0448,negative,-0.8473
+2022-02-22,SPY lowers guidance amid macroeconomic headwinds,SPY,CNBC,0.1277,0.7863,0.086,negative,-0.6586
+2022-02-23,Cryptocurrency volatility spills over into tech stocks,,Reuters,0.2089,0.2511,0.5401,neutral,-0.0422
+2022-02-24,Analysts upgrade MSFT to 'buy' after strong quarter,MSFT,MarketWatch,0.5899,0.1461,0.264,positive,0.4438
+2022-02-25,Central banks globally signal tightening monetary policy,,Bloomberg,0.1595,0.373,0.4674,neutral,-0.2135
+2022-02-25,MSFT reports record revenue in Q1 results,MSFT,CNBC,0.7486,0.1228,0.1286,positive,0.6259
+2022-02-25,MSFT reports results in line with expectations,MSFT,Bloomberg,0.1602,0.3535,0.4863,neutral,-0.1933
+2022-02-28,MSFT board approves routine corporate matters,MSFT,CNBC,0.128,0.3321,0.5399,neutral,-0.2041
+2022-03-01,Housing market shows signs of cooling as rates rise,,Yahoo Finance,0.0514,0.265,0.6836,neutral,-0.2136
+2022-03-02,Short sellers increase bets against SPY,SPY,Reuters,0.8272,0.1254,0.0475,positive,0.7018
+2022-03-02,Mixed signals for GOOGL as sector consolidates,GOOGL,Bloomberg,0.2067,0.0729,0.7204,neutral,0.1338
+2022-03-02,Concerns mount over MSFT slowing growth trajectory,MSFT,Reuters,0.0755,0.6734,0.2511,negative,-0.5978
+2022-03-03,GOOGL expands into new market with strategic acquisition,GOOGL,MarketWatch,0.8628,0.1277,0.0095,positive,0.735
+2022-03-04,MSFT announces leadership transition plan,MSFT,Bloomberg,0.2858,0.1252,0.5891,neutral,0.1606
+2022-03-04,AAPL announces major share buyback program,AAPL,Yahoo Finance,0.2753,0.0278,0.6969,neutral,0.2474
+2022-03-07,SPY trading near 50-day moving average,SPY,Bloomberg,0.2644,0.0807,0.6549,neutral,0.1837
+2022-03-07,QQQ maintains dividend at current levels,QQQ,Yahoo Finance,0.073,0.2095,0.7175,neutral,-0.1365
+2022-03-08,Analysts downgrade AAPL citing valuation concerns,AAPL,Reuters,0.0634,0.9071,0.0295,negative,-0.8438
+2022-03-09,Bond market inversion deepens recession concerns,,Reuters,0.1229,0.7128,0.1643,negative,-0.5898
+2022-03-09,Market rally lifts SPY to new 52-week high,SPY,CNBC,0.796,0.1361,0.0679,positive,0.6599
+2022-03-10,Sector rotation leaves GOOGL flat on the day,GOOGL,MarketWatch,0.1433,0.2865,0.5702,neutral,-0.1432
+2022-03-10,GOOGL launches innovative product to positive reviews,GOOGL,Bloomberg,0.5617,0.0802,0.3581,positive,0.4816
+2022-03-11,Analysts downgrade MSFT citing valuation concerns,MSFT,CNBC,0.0592,0.8179,0.1229,negative,-0.7588
+2022-03-16,GDP growth slows but beats revised expectations,,Bloomberg,0.7212,0.0485,0.2303,positive,0.6727
+2022-03-16,Market rally lifts AAPL to new 52-week high,AAPL,Bloomberg,0.8359,0.0279,0.1362,positive,0.8081
+2022-03-17,SPY dividend increase signals management confidence,SPY,CNBC,0.811,0.0693,0.1197,positive,0.7417
+2022-03-17,SPY layoffs signal deeper problems in core business,SPY,Bloomberg,0.131,0.5654,0.3037,negative,-0.4344
+2022-03-18,AAPL CFO departure raises governance questions,AAPL,Yahoo Finance,0.1998,0.2039,0.5963,neutral,-0.004
+2022-03-18,GOOGL board approves routine corporate matters,GOOGL,CNBC,0.2138,0.1166,0.6696,neutral,0.0971
+2022-03-21,Small caps outperform as risk appetite improves,,MarketWatch,0.8204,0.1191,0.0605,positive,0.7013
+2022-03-21,S&P 500 closes at session highs on broad rally,,CNBC,0.768,0.0675,0.1645,positive,0.7005
+2022-03-23,Trade tensions weigh on GOOGL international revenue,GOOGL,Bloomberg,0.2757,0.2013,0.5229,neutral,0.0744
+2022-03-23,MSFT hit by data breach affecting millions of users,MSFT,Yahoo Finance,0.0665,0.9089,0.0246,negative,-0.8424
+2022-03-24,Institutional investors increase holdings in SPY,SPY,Yahoo Finance,0.5916,0.0489,0.3595,positive,0.5426
+2022-03-25,QQQ trading near 50-day moving average,QQQ,Reuters,0.0932,0.2556,0.6512,neutral,-0.1623
+2022-03-25,MSFT completes previously announced restructuring,MSFT,MarketWatch,0.2808,0.0352,0.684,neutral,0.2456
+2022-03-28,Earnings season kicks off with mixed bank results,,MarketWatch,0.0523,0.2086,0.7391,neutral,-0.1562
+2022-03-29,Trading volume in AAPL remains steady ahead of earnings,AAPL,Bloomberg,0.235,0.0275,0.7374,neutral,0.2075
+2022-03-29,MSFT files routine regulatory paperwork,MSFT,MarketWatch,0.1538,0.371,0.4752,neutral,-0.2172
+2022-04-01,S&P 500 closes at session highs on broad rally,,Bloomberg,0.809,0.1444,0.0466,positive,0.6646
+2022-04-01,AAPL reports record revenue in Q1 results,AAPL,MarketWatch,0.6107,0.0366,0.3527,positive,0.5741
+2022-04-01,MSFT launches innovative product to positive reviews,MSFT,Bloomberg,0.7248,0.1459,0.1294,positive,0.5789
+2022-04-05,GOOGL faces class action lawsuit from shareholders,GOOGL,Bloomberg,0.0496,0.9094,0.041,negative,-0.8598
+2022-04-06,Treasury yields climb as inflation data tops expectations,,MarketWatch,0.277,0.1772,0.5458,neutral,0.0998
+2022-04-06,QQQ launches innovative product to positive reviews,QQQ,Bloomberg,0.8219,0.1464,0.0317,positive,0.6755
+2022-04-06,Global markets rally on trade deal optimism,,Reuters,0.8805,0.048,0.0716,positive,0.8325
+2022-04-07,SPY board approves routine corporate matters,SPY,MarketWatch,0.0621,0.2599,0.6779,neutral,-0.1978
+2022-04-08,AAPL expands into new market with strategic acquisition,AAPL,MarketWatch,0.8526,0.0982,0.0492,positive,0.7544
+2022-04-08,MSFT reports record revenue in Q3 results,MSFT,Yahoo Finance,0.8538,0.1368,0.0094,positive,0.717
+2022-04-08,Retail investors drive unusual options activity,,Bloomberg,0.0901,0.4446,0.4652,neutral,-0.3545
+2022-04-12,Dollar strengthens as global growth concerns persist,,Reuters,0.1343,0.7292,0.1365,negative,-0.5948
+2022-04-12,MSFT maintains dividend at current levels,MSFT,Reuters,0.2911,0.0146,0.6943,neutral,0.2765
+2022-04-13,Oil prices surge on geopolitical tensions in Middle East,,Reuters,0.7787,0.0534,0.168,positive,0.7253
+2022-04-14,AAPL reports record revenue in Q1 results,AAPL,MarketWatch,0.5593,0.049,0.3917,positive,0.5103
+2022-04-15,Central banks globally signal tightening monetary policy,,MarketWatch,0.2816,0.0658,0.6526,neutral,0.2157
+2022-04-18,S&P 500 closes at session highs on broad rally,,Bloomberg,0.6687,0.1338,0.1974,positive,0.5349
+2022-04-18,GOOGL holds investor day with no major announcements,GOOGL,MarketWatch,0.1271,0.3045,0.5685,neutral,-0.1774
+2022-04-20,Global markets rally on trade deal optimism,,Reuters,0.7383,0.0775,0.1842,positive,0.6608
+2022-04-21,Analysts upgrade QQQ to 'buy' after strong quarter,QQQ,CNBC,0.8881,0.0809,0.031,positive,0.8072
+2022-04-22,MSFT reports results in line with expectations,MSFT,Reuters,0.2606,0.2062,0.5332,neutral,0.0545
+2022-04-22,Sector rotation leaves GOOGL flat on the day,GOOGL,CNBC,0.212,0.0383,0.7496,neutral,0.1737
+2022-04-22,GOOGL to present at upcoming investor conference,GOOGL,Bloomberg,0.1097,0.3652,0.5251,neutral,-0.2555
+2022-04-25,Market rally lifts MSFT to new 52-week high,MSFT,Bloomberg,0.5714,0.03,0.3986,positive,0.5413
+2022-04-25,Rising costs pressure GOOGL profit margins,GOOGL,CNBC,0.0325,0.8885,0.0789,negative,-0.856
+2022-04-26,Mixed signals for AAPL as sector consolidates,AAPL,MarketWatch,0.2245,0.1802,0.5953,neutral,0.0444
+2022-04-27,MSFT dividend increase signals management confidence,MSFT,Reuters,0.8646,0.0423,0.0931,positive,0.8224
+2022-04-28,Market rally lifts GOOGL to new 52-week high,GOOGL,Bloomberg,0.712,0.0527,0.2353,positive,0.6593
+2022-04-29,"MSFT misses revenue estimates, stock drops",MSFT,MarketWatch,0.0595,0.6447,0.2958,negative,-0.5852
+2022-04-29,SPY holds investor day with no major announcements,SPY,Bloomberg,0.0541,0.3197,0.6261,neutral,-0.2656
+2022-04-29,Concerns mount over QQQ slowing growth trajectory,QQQ,CNBC,0.0443,0.7012,0.2545,negative,-0.657
+2022-05-02,GOOGL holds investor day with no major announcements,GOOGL,CNBC,0.1957,0.0642,0.7401,neutral,0.1315
+2022-05-02,QQQ reports record revenue in Q4 results,QQQ,Bloomberg,0.8712,0.0454,0.0834,positive,0.8258
+2022-05-03,Trade tensions weigh on SPY international revenue,SPY,Yahoo Finance,0.1537,0.1533,0.693,neutral,0.0004
+2022-05-04,GOOGL expands into new market with strategic acquisition,GOOGL,Reuters,0.6157,0.119,0.2653,positive,0.4968
+2022-05-04,Short sellers increase bets against SPY,SPY,Reuters,0.8319,0.1495,0.0186,positive,0.6825
+2022-05-04,"Fed signals potential rate changes, markets react",,Bloomberg,0.0863,0.2294,0.6843,neutral,-0.1431
+2022-05-05,Trade tensions weigh on SPY international revenue,SPY,Reuters,0.1629,0.2903,0.5468,neutral,-0.1274
+2022-05-06,Analysts upgrade SPY to 'buy' after strong quarter,SPY,CNBC,0.5969,0.1224,0.2807,positive,0.4744
+2022-05-09,QQQ faces class action lawsuit from shareholders,QQQ,CNBC,0.1428,0.7449,0.1123,negative,-0.6021
+2022-05-09,Bond market inversion deepens recession concerns,,Yahoo Finance,0.088,0.768,0.144,negative,-0.6801
+2022-05-10,SPY holds investor day with no major announcements,SPY,Bloomberg,0.0873,0.4412,0.4714,neutral,-0.3539
+2022-05-12,QQQ announces major share buyback program,QQQ,Yahoo Finance,0.294,0.0099,0.6961,neutral,0.2841
+2022-05-12,Mixed signals for AAPL as sector consolidates,AAPL,Bloomberg,0.2525,0.1729,0.5746,neutral,0.0796
+2022-05-12,Concerns mount over SPY slowing growth trajectory,SPY,CNBC,0.1447,0.7822,0.0731,negative,-0.6375
+2022-05-13,Bond market inversion deepens recession concerns,,CNBC,0.0908,0.6381,0.2711,negative,-0.5473
+2022-05-16,SPY announces leadership transition plan,SPY,MarketWatch,0.1854,0.2419,0.5726,neutral,-0.0565
+2022-05-16,SPY trading near 50-day moving average,SPY,Reuters,0.1744,0.2949,0.5307,neutral,-0.1205
+2022-05-16,Wall Street bullish on MSFT growth prospects,MSFT,MarketWatch,0.7812,0.0306,0.1883,positive,0.7506
+2022-05-17,QQQ maintains dividend at current levels,QQQ,Reuters,0.2266,0.1005,0.6729,neutral,0.1262
+2022-05-18,Analysts maintain hold rating on SPY,SPY,Yahoo Finance,0.1565,0.1294,0.7141,neutral,0.0271
+2022-05-18,Earnings season kicks off with mixed bank results,,MarketWatch,0.1654,0.3661,0.4685,neutral,-0.2008
+2022-05-19,Competition intensifies as GOOGL loses market share,GOOGL,CNBC,0.1042,0.6009,0.2949,negative,-0.4967
+2022-05-19,MSFT CFO departure raises governance questions,MSFT,CNBC,0.1435,0.3924,0.4641,neutral,-0.2489
+2022-05-20,AAPL raises full-year guidance above consensus,AAPL,Bloomberg,0.5807,0.0204,0.3989,positive,0.5602
+2022-05-20,Market rally lifts SPY to new 52-week high,SPY,Reuters,0.8502,0.1404,0.0094,positive,0.7098
+2022-05-24,SPY faces class action lawsuit from shareholders,SPY,Reuters,0.0511,0.7555,0.1934,negative,-0.7045
+2022-05-24,"AAPL beats earnings expectations, shares surge",AAPL,Reuters,0.8554,0.135,0.0096,positive,0.7204
+2022-05-25,MSFT volume picks up ahead of next week earnings,MSFT,Reuters,0.1861,0.1076,0.7064,neutral,0.0785
+2022-05-25,Mixed signals for QQQ as sector consolidates,QQQ,CNBC,0.0721,0.4555,0.4724,neutral,-0.3834
+2022-05-26,"AAPL misses revenue estimates, stock drops",AAPL,Yahoo Finance,0.1305,0.8597,0.0098,negative,-0.7292
+2022-05-26,Market rally lifts QQQ to new 52-week high,QQQ,Bloomberg,0.7107,0.0627,0.2266,positive,0.6481
+2022-05-26,AAPL cloud revenue growth accelerates in latest quarter,AAPL,MarketWatch,0.7883,0.1249,0.0868,positive,0.6634
+2022-05-27,Manufacturing PMI signals contraction for third month,,Bloomberg,0.1,0.8207,0.0792,negative,-0.7207
+2022-05-30,"QQQ misses revenue estimates, stock drops",QQQ,Bloomberg,0.0541,0.6357,0.3102,negative,-0.5815
+2022-05-31,SPY secures major government contract worth billions,SPY,Bloomberg,0.8179,0.1243,0.0578,positive,0.6936
+2022-05-31,AAPL announces leadership transition plan,AAPL,CNBC,0.0968,0.4183,0.4848,neutral,-0.3215
+2022-06-01,MSFT profit margins expand amid cost cutting efforts,MSFT,Bloomberg,0.1472,0.1986,0.6541,neutral,-0.0514
+2022-06-02,Analysts downgrade MSFT citing valuation concerns,MSFT,Bloomberg,0.0999,0.7584,0.1417,negative,-0.6585
+2022-06-02,GOOGL cloud revenue growth accelerates in latest quarter,GOOGL,Yahoo Finance,0.8372,0.1247,0.0381,positive,0.7125
+2022-06-03,Cryptocurrency volatility spills over into tech stocks,,Yahoo Finance,0.1853,0.2806,0.534,neutral,-0.0953
+2022-06-06,Cryptocurrency volatility spills over into tech stocks,,MarketWatch,0.2605,0.2524,0.4871,neutral,0.0081
+2022-06-08,QQQ volume picks up ahead of next week earnings,QQQ,Bloomberg,0.1249,0.1715,0.7036,neutral,-0.0466
+2022-06-08,SPY announces leadership transition plan,SPY,Bloomberg,0.0675,0.4343,0.4982,neutral,-0.3668
+2022-06-10,Housing market shows signs of cooling as rates rise,,CNBC,0.0729,0.3047,0.6225,neutral,-0.2318
+2022-06-10,MSFT board approves routine corporate matters,MSFT,CNBC,0.2195,0.1263,0.6542,neutral,0.0932
+2022-06-13,MSFT maintains dividend at current levels,MSFT,Bloomberg,0.2691,0.0967,0.6342,neutral,0.1725
+2022-06-13,MSFT board approves routine corporate matters,MSFT,Yahoo Finance,0.2756,0.1609,0.5635,neutral,0.1146
+2022-06-14,Treasury yields climb as inflation data tops expectations,,CNBC,0.0782,0.4607,0.4611,neutral,-0.3825
+2022-06-14,GOOGL maintains dividend at current levels,GOOGL,Yahoo Finance,0.1985,0.2278,0.5737,neutral,-0.0293
+2022-06-14,Trading volume in GOOGL remains steady ahead of earnings,GOOGL,Yahoo Finance,0.1919,0.3484,0.4597,neutral,-0.1566
+2022-06-15,Analysts downgrade SPY citing valuation concerns,SPY,Bloomberg,0.1353,0.6637,0.2009,negative,-0.5284
+2022-06-16,MSFT raises full-year guidance above consensus,MSFT,MarketWatch,0.7473,0.0964,0.1563,positive,0.6509
+2022-06-16,Analysts upgrade MSFT to 'buy' after strong quarter,MSFT,Bloomberg,0.8743,0.116,0.0097,positive,0.7584
+2022-06-16,GDP growth slows but beats revised expectations,,Yahoo Finance,0.7122,0.082,0.2058,positive,0.6302
+2022-06-17,Small caps outperform as risk appetite improves,,Reuters,0.7897,0.046,0.1642,positive,0.7437
+2022-06-17,Earnings season kicks off with mixed bank results,,Bloomberg,0.1278,0.3956,0.4766,neutral,-0.2678
+2022-06-20,Global markets rally on trade deal optimism,,Bloomberg,0.838,0.0535,0.1085,positive,0.7845
+2022-06-21,AAPL launches innovative product to positive reviews,AAPL,Yahoo Finance,0.5984,0.0485,0.3531,positive,0.5499
+2022-06-22,"QQQ beats earnings expectations, shares surge",QQQ,MarketWatch,0.8012,0.0998,0.099,positive,0.7014
+2022-06-23,Short sellers increase bets against GOOGL,GOOGL,Bloomberg,0.8047,0.0619,0.1335,positive,0.7428
+2022-06-24,Market selloff drags AAPL below key support levels,AAPL,Reuters,0.0787,0.8833,0.038,negative,-0.8046
+2022-06-27,AAPL board approves routine corporate matters,AAPL,Reuters,0.2872,0.1087,0.6041,neutral,0.1785
+2022-06-27,QQQ announces leadership transition plan,QQQ,CNBC,0.2154,0.0408,0.7438,neutral,0.1746
+2022-06-28,Analysts upgrade MSFT to 'buy' after strong quarter,MSFT,Bloomberg,0.8996,0.0904,0.01,positive,0.8092
+2022-06-29,AAPL launches innovative product to positive reviews,AAPL,MarketWatch,0.6637,0.061,0.2753,positive,0.6027
+2022-06-30,Central banks globally signal tightening monetary policy,,Bloomberg,0.2013,0.1811,0.6177,neutral,0.0202
+2022-07-06,AAPL cloud revenue growth accelerates in latest quarter,AAPL,Reuters,0.7127,0.1349,0.1525,positive,0.5778
+2022-07-07,Retail investors drive unusual options activity,,MarketWatch,0.1184,0.3036,0.578,neutral,-0.1853
+2022-07-07,SPY to present at upcoming investor conference,SPY,Reuters,0.2926,0.255,0.4524,neutral,0.0377
+2022-07-08,MSFT to present at upcoming investor conference,MSFT,Bloomberg,0.2039,0.0988,0.6973,neutral,0.1051
+2022-07-11,Competition intensifies as GOOGL loses market share,GOOGL,CNBC,0.1253,0.8573,0.0174,negative,-0.732
+2022-07-11,Market selloff drags GOOGL below key support levels,GOOGL,MarketWatch,0.0702,0.8948,0.035,negative,-0.8246
+2022-07-12,Treasury yields climb as inflation data tops expectations,,Yahoo Finance,0.0747,0.3089,0.6165,neutral,-0.2342
+2022-07-12,MSFT warns of supply chain disruptions impacting margins,MSFT,MarketWatch,0.139,0.8516,0.0094,negative,-0.7126
+2022-07-13,Cryptocurrency volatility spills over into tech stocks,,CNBC,0.1635,0.1497,0.6867,neutral,0.0138
+2022-07-14,GOOGL volume picks up ahead of next week earnings,GOOGL,Reuters,0.1588,0.2422,0.599,neutral,-0.0833
+2022-07-15,SPY lowers guidance amid macroeconomic headwinds,SPY,CNBC,0.0886,0.6585,0.2529,negative,-0.5699
+2022-07-15,Rising costs pressure GOOGL profit margins,GOOGL,Reuters,0.1489,0.5698,0.2813,negative,-0.4208
+2022-07-18,Central banks globally signal tightening monetary policy,,MarketWatch,0.2818,0.1409,0.5772,neutral,0.1409
+2022-07-19,Analysts upgrade QQQ to 'buy' after strong quarter,QQQ,MarketWatch,0.818,0.0577,0.1243,positive,0.7603
+2022-07-19,SPY holds investor day with no major announcements,SPY,MarketWatch,0.2989,0.1845,0.5166,neutral,0.1145
+2022-07-20,Trading volume in AAPL remains steady ahead of earnings,AAPL,Reuters,0.1124,0.2059,0.6816,neutral,-0.0935
+2022-07-20,Tech sector leads market decline on growth concerns,,Reuters,0.1106,0.575,0.3144,negative,-0.4644
+2022-07-21,GOOGL maintains dividend at current levels,GOOGL,Yahoo Finance,0.1053,0.3538,0.5409,neutral,-0.2484
+2022-07-21,Consumer confidence drops to lowest level in six months,,Reuters,0.1083,0.8219,0.0698,negative,-0.7136
+2022-07-22,GOOGL launches innovative product to positive reviews,GOOGL,Reuters,0.7281,0.1425,0.1293,positive,0.5856
+2022-07-25,Rising costs pressure AAPL profit margins,AAPL,MarketWatch,0.1361,0.8015,0.0624,negative,-0.6653
+2022-07-28,Analysts maintain hold rating on QQQ,QQQ,Reuters,0.1242,0.3687,0.5072,neutral,-0.2445
+2022-07-28,Analysts maintain hold rating on GOOGL,GOOGL,MarketWatch,0.1261,0.3925,0.4814,neutral,-0.2664
+2022-07-29,SPY reports results in line with expectations,SPY,Yahoo Finance,0.2789,0.0096,0.7115,neutral,0.2693
+2022-07-29,GOOGL launches innovative product to positive reviews,GOOGL,Reuters,0.8313,0.0877,0.0809,positive,0.7436
+2022-08-01,Mixed signals for GOOGL as sector consolidates,GOOGL,MarketWatch,0.1884,0.1274,0.6842,neutral,0.061
+2022-08-01,SPY launches innovative product to positive reviews,SPY,MarketWatch,0.5513,0.0852,0.3635,positive,0.4661
+2022-08-01,AAPL warns of supply chain disruptions impacting margins,AAPL,Reuters,0.0545,0.7716,0.1739,negative,-0.7171
+2022-08-02,Global markets rally on trade deal optimism,,Bloomberg,0.6252,0.0556,0.3192,positive,0.5696
+2022-08-03,Institutional investors increase holdings in SPY,SPY,Reuters,0.7807,0.039,0.1803,positive,0.7418
+2022-08-03,Institutional investors increase holdings in MSFT,MSFT,CNBC,0.8165,0.0749,0.1085,positive,0.7416
+2022-08-04,VIX spikes as volatility returns to equity markets,,Bloomberg,0.2518,0.1922,0.556,neutral,0.0596
+2022-08-04,QQQ hit by data breach affecting millions of users,QQQ,Bloomberg,0.0692,0.7372,0.1936,negative,-0.6681
+2022-08-05,AAPL faces class action lawsuit from shareholders,AAPL,Reuters,0.0679,0.8749,0.0572,negative,-0.807
+2022-08-05,Mixed signals for AAPL as sector consolidates,AAPL,Bloomberg,0.176,0.1163,0.7077,neutral,0.0598
+2022-08-05,MSFT to present at upcoming investor conference,MSFT,Bloomberg,0.2032,0.2844,0.5124,neutral,-0.0812
+2022-08-08,Sector rotation leaves QQQ flat on the day,QQQ,Yahoo Finance,0.0868,0.3776,0.5356,neutral,-0.2908
+2022-08-09,AAPL reports results in line with expectations,AAPL,MarketWatch,0.1104,0.4136,0.476,neutral,-0.3032
+2022-08-10,QQQ expands into new market with strategic acquisition,QQQ,Bloomberg,0.8225,0.1289,0.0485,positive,0.6936
+2022-08-10,Trade tensions weigh on GOOGL international revenue,GOOGL,Reuters,0.1175,0.1739,0.7085,neutral,-0.0564
+2022-08-11,Market rally lifts QQQ to new 52-week high,QQQ,MarketWatch,0.7946,0.0499,0.1555,positive,0.7446
+2022-08-12,MSFT layoffs signal deeper problems in core business,MSFT,CNBC,0.1353,0.7804,0.0842,negative,-0.6451
+2022-08-15,"Fed signals potential rate changes, markets react",,Yahoo Finance,0.2963,0.2414,0.4623,neutral,0.0549
+2022-08-15,GOOGL files routine regulatory paperwork,GOOGL,Reuters,0.2404,0.0615,0.6981,neutral,0.179
+2022-08-16,GOOGL to present at upcoming investor conference,GOOGL,Yahoo Finance,0.2426,0.1,0.6574,neutral,0.1425
+2022-08-16,AAPL reports results in line with expectations,AAPL,MarketWatch,0.2423,0.01,0.7477,neutral,0.2323
+2022-08-16,Manufacturing PMI signals contraction for third month,,Bloomberg,0.0998,0.6801,0.2201,negative,-0.5803
+2022-08-17,Competition intensifies as SPY loses market share,SPY,CNBC,0.1461,0.6747,0.1792,negative,-0.5286
+2022-08-18,Analysts downgrade AAPL citing valuation concerns,AAPL,CNBC,0.0938,0.8831,0.0232,negative,-0.7893
+2022-08-19,SPY maintains dividend at current levels,SPY,Yahoo Finance,0.2774,0.0382,0.6844,neutral,0.2392
+2022-08-22,Small caps outperform as risk appetite improves,,MarketWatch,0.6401,0.0953,0.2645,positive,0.5448
+2022-08-22,VIX spikes as volatility returns to equity markets,,Bloomberg,0.2429,0.1626,0.5945,neutral,0.0803
+2022-08-23,AAPL trading near 50-day moving average,AAPL,CNBC,0.2272,0.209,0.5637,neutral,0.0182
+2022-08-23,MSFT dividend increase signals management confidence,MSFT,MarketWatch,0.6991,0.0344,0.2665,positive,0.6647
+2022-08-23,Bond market inversion deepens recession concerns,,Yahoo Finance,0.0355,0.5896,0.3749,negative,-0.5542
+2022-08-24,Oil prices surge on geopolitical tensions in Middle East,,Yahoo Finance,0.562,0.0893,0.3487,positive,0.4727
+2022-08-24,AAPL files routine regulatory paperwork,AAPL,MarketWatch,0.0817,0.2667,0.6516,neutral,-0.1851
+2022-08-25,QQQ maintains dividend at current levels,QQQ,MarketWatch,0.1994,0.167,0.6336,neutral,0.0324
+2022-08-26,MSFT dividend increase signals management confidence,MSFT,Yahoo Finance,0.6044,0.0725,0.323,positive,0.5319
+2022-08-29,S&P 500 closes at session highs on broad rally,,Reuters,0.8294,0.0222,0.1484,positive,0.8072
+2022-08-30,AAPL completes previously announced restructuring,AAPL,MarketWatch,0.299,0.207,0.4941,neutral,0.092
+2022-08-30,QQQ layoffs signal deeper problems in core business,QQQ,Bloomberg,0.0803,0.8214,0.0983,negative,-0.7411
+2022-08-30,GOOGL holds investor day with no major announcements,GOOGL,Reuters,0.2616,0.0995,0.6389,neutral,0.1621
+2022-09-01,Global markets rally on trade deal optimism,,MarketWatch,0.8617,0.0622,0.0761,positive,0.7994
+2022-09-05,AAPL profit margins expand amid cost cutting efforts,AAPL,MarketWatch,0.2095,0.1931,0.5974,neutral,0.0164
+2022-09-05,GOOGL secures major government contract worth billions,GOOGL,MarketWatch,0.5766,0.143,0.2804,positive,0.4336
+2022-09-06,Wall Street bullish on MSFT growth prospects,MSFT,Bloomberg,0.7101,0.0682,0.2217,positive,0.6419
+2022-09-07,SPY lowers guidance amid macroeconomic headwinds,SPY,MarketWatch,0.0354,0.8856,0.079,negative,-0.8502
+2022-09-08,Wall Street bullish on SPY growth prospects,SPY,Bloomberg,0.5645,0.1091,0.3264,positive,0.4555
+2022-09-08,Small caps outperform as risk appetite improves,,MarketWatch,0.6925,0.1194,0.1882,positive,0.5731
+2022-09-08,SPY faces regulatory scrutiny over business practices,SPY,Reuters,0.0699,0.5754,0.3548,negative,-0.5055
+2022-09-09,Competition intensifies as GOOGL loses market share,GOOGL,Reuters,0.1161,0.6371,0.2468,negative,-0.5209
+2022-09-12,QQQ volume picks up ahead of next week earnings,QQQ,MarketWatch,0.1645,0.3174,0.5182,neutral,-0.1529
+2022-09-13,SPY completes previously announced restructuring,SPY,Yahoo Finance,0.2788,0.0255,0.6957,neutral,0.2534
+2022-09-13,AAPL layoffs signal deeper problems in core business,AAPL,Reuters,0.0758,0.8174,0.1068,negative,-0.7416
+2022-09-13,Cryptocurrency volatility spills over into tech stocks,,Reuters,0.2224,0.156,0.6216,neutral,0.0664
+2022-09-15,GOOGL files routine regulatory paperwork,GOOGL,Yahoo Finance,0.2721,0.0154,0.7125,neutral,0.2568
+2022-09-15,Oil prices surge on geopolitical tensions in Middle East,,MarketWatch,0.8685,0.1218,0.0097,positive,0.7468
+2022-09-19,GOOGL announces major share buyback program,GOOGL,CNBC,0.2369,0.2691,0.494,neutral,-0.0321
+2022-09-20,MSFT dividend increase signals management confidence,MSFT,Reuters,0.8514,0.1341,0.0145,positive,0.7173
+2022-09-21,GOOGL layoffs signal deeper problems in core business,GOOGL,MarketWatch,0.0862,0.8922,0.0216,negative,-0.806
+2022-09-21,AAPL maintains dividend at current levels,AAPL,Reuters,0.0524,0.3011,0.6465,neutral,-0.2487
+2022-09-22,"Job report exceeds expectations, stocks mixed",,Bloomberg,0.1683,0.2099,0.6218,neutral,-0.0416
+2022-09-23,Central banks globally signal tightening monetary policy,,Bloomberg,0.2689,0.0098,0.7213,neutral,0.2592
+2022-09-23,AAPL to present at upcoming investor conference,AAPL,Reuters,0.0642,0.2465,0.6893,neutral,-0.1822
+2022-09-26,MSFT completes previously announced restructuring,MSFT,CNBC,0.224,0.2054,0.5706,neutral,0.0186
+2022-09-26,GOOGL maintains dividend at current levels,GOOGL,Bloomberg,0.109,0.4321,0.4589,neutral,-0.3232
+2022-09-26,GOOGL reports record revenue in Q4 results,GOOGL,CNBC,0.8784,0.0369,0.0848,positive,0.8415
+2022-09-27,Retail investors drive unusual options activity,,Reuters,0.1951,0.3394,0.4654,neutral,-0.1443
+2022-09-27,Options activity in SPY suggests sideways movement,SPY,Yahoo Finance,0.258,0.01,0.732,neutral,0.248
+2022-09-27,MSFT raises full-year guidance above consensus,MSFT,CNBC,0.8768,0.1136,0.0096,positive,0.7632
+2022-09-28,QQQ faces regulatory scrutiny over business practices,QQQ,MarketWatch,0.1431,0.7118,0.1451,negative,-0.5688
+2022-09-30,Consumer confidence drops to lowest level in six months,,Reuters,0.0655,0.7079,0.2266,negative,-0.6423
+2022-09-30,GOOGL reports record revenue in Q2 results,GOOGL,Reuters,0.7158,0.1258,0.1584,positive,0.59
+2022-09-30,"GOOGL beats earnings expectations, shares surge",GOOGL,Reuters,0.8895,0.0665,0.044,positive,0.823
+2022-10-04,SPY reports results in line with expectations,SPY,Bloomberg,0.2746,0.1367,0.5887,neutral,0.1378
+2022-10-05,MSFT faces class action lawsuit from shareholders,MSFT,Reuters,0.1219,0.5674,0.3107,negative,-0.4455
+2022-10-05,"Fed signals potential rate changes, markets react",,MarketWatch,0.1441,0.2696,0.5863,neutral,-0.1255
+2022-10-05,QQQ holds investor day with no major announcements,QQQ,CNBC,0.1547,0.2613,0.5841,neutral,-0.1066
+2022-10-06,Institutional investors increase holdings in QQQ,QQQ,Bloomberg,0.8299,0.1406,0.0294,positive,0.6893
+2022-10-07,Wall Street bullish on SPY growth prospects,SPY,MarketWatch,0.7318,0.1283,0.1399,positive,0.6036
+2022-10-10,GOOGL announces major share buyback program,GOOGL,Reuters,0.1327,0.1977,0.6696,neutral,-0.0651
+2022-10-12,QQQ expands into new market with strategic acquisition,QQQ,CNBC,0.7673,0.1067,0.126,positive,0.6606
+2022-10-17,Market selloff drags MSFT below key support levels,MSFT,Bloomberg,0.0715,0.5587,0.3698,negative,-0.4872
+2022-10-17,SPY cloud revenue growth accelerates in latest quarter,SPY,Bloomberg,0.8905,0.0998,0.0097,positive,0.7906
+2022-10-17,Strong consumer demand drives GOOGL sales higher,GOOGL,Bloomberg,0.6737,0.0525,0.2738,positive,0.6212
+2022-10-18,Wall Street bullish on MSFT growth prospects,MSFT,Reuters,0.6275,0.0722,0.3003,positive,0.5553
+2022-10-18,GOOGL volume picks up ahead of next week earnings,GOOGL,Bloomberg,0.0838,0.4082,0.508,neutral,-0.3244
+2022-10-18,SPY to present at upcoming investor conference,SPY,Reuters,0.2017,0.239,0.5592,neutral,-0.0373
+2022-10-19,GDP growth slows but beats revised expectations,,Bloomberg,0.6042,0.0258,0.3701,positive,0.5784
+2022-10-19,QQQ completes previously announced restructuring,QQQ,Bloomberg,0.1168,0.4228,0.4604,neutral,-0.3059
+2022-10-20,Mixed signals for AAPL as sector consolidates,AAPL,Reuters,0.1848,0.3081,0.507,neutral,-0.1233
+2022-10-21,Bond market inversion deepens recession concerns,,CNBC,0.0622,0.7186,0.2192,negative,-0.6564
+2022-10-21,MSFT secures major government contract worth billions,MSFT,Yahoo Finance,0.8584,0.0856,0.0559,positive,0.7728
+2022-10-25,SPY files routine regulatory paperwork,SPY,Reuters,0.1239,0.3986,0.4775,neutral,-0.2747
+2022-10-26,AAPL layoffs signal deeper problems in core business,AAPL,Yahoo Finance,0.1378,0.8529,0.0094,negative,-0.7151
+2022-10-26,Wall Street bullish on MSFT growth prospects,MSFT,CNBC,0.6442,0.0417,0.314,positive,0.6025
+2022-10-27,Market selloff drags AAPL below key support levels,AAPL,Bloomberg,0.0826,0.7334,0.184,negative,-0.6508
+2022-10-28,GOOGL board approves routine corporate matters,GOOGL,Bloomberg,0.1823,0.2446,0.573,neutral,-0.0623
+2022-10-28,Analysts maintain hold rating on AAPL,AAPL,Yahoo Finance,0.0787,0.4016,0.5197,neutral,-0.3229
+2022-10-28,Markets tumble on recession fears and weak economic data,,CNBC,0.1412,0.7611,0.0977,negative,-0.6198
+2022-10-31,QQQ warns of supply chain disruptions impacting margins,QQQ,MarketWatch,0.1116,0.601,0.2874,negative,-0.4893
+2022-10-31,AAPL cloud revenue growth accelerates in latest quarter,AAPL,Bloomberg,0.712,0.0582,0.2298,positive,0.6538
+2022-11-01,Retail investors drive unusual options activity,,MarketWatch,0.1641,0.1299,0.7059,neutral,0.0342
+2022-11-02,QQQ to present at upcoming investor conference,QQQ,CNBC,0.1608,0.2142,0.625,neutral,-0.0535
+2022-11-03,Analysts downgrade MSFT citing valuation concerns,MSFT,CNBC,0.0973,0.5801,0.3226,negative,-0.4827
+2022-11-03,GOOGL profit margins expand amid cost cutting efforts,GOOGL,MarketWatch,0.0717,0.3527,0.5757,neutral,-0.281
+2022-11-03,Market selloff drags QQQ below key support levels,QQQ,MarketWatch,0.0213,0.7705,0.2083,negative,-0.7492
+2022-11-04,SPY volume picks up ahead of next week earnings,SPY,MarketWatch,0.2453,0.2422,0.5126,neutral,0.0031
+2022-11-04,AAPL completes previously announced restructuring,AAPL,MarketWatch,0.2117,0.327,0.4614,neutral,-0.1153
+2022-11-04,Concerns mount over SPY slowing growth trajectory,SPY,MarketWatch,0.0423,0.9014,0.0564,negative,-0.8591
+2022-11-07,QQQ trading near 50-day moving average,QQQ,Bloomberg,0.1939,0.231,0.5751,neutral,-0.0371
+2022-11-07,GOOGL CFO departure raises governance questions,GOOGL,Yahoo Finance,0.2051,0.2098,0.5851,neutral,-0.0047
+2022-11-07,Analysts maintain hold rating on QQQ,QQQ,Yahoo Finance,0.0871,0.3416,0.5712,neutral,-0.2545
+2022-11-08,Trade tensions weigh on GOOGL international revenue,GOOGL,Yahoo Finance,0.2361,0.2872,0.4767,neutral,-0.0511
+2022-11-08,GDP growth slows but beats revised expectations,,Reuters,0.6383,0.1302,0.2315,positive,0.5081
+2022-11-09,Earnings season kicks off with mixed bank results,,CNBC,0.0624,0.2647,0.6729,neutral,-0.2024
+2022-11-10,GDP growth slows but beats revised expectations,,MarketWatch,0.6244,0.058,0.3176,positive,0.5665
+2022-11-11,"GOOGL misses revenue estimates, stock drops",GOOGL,Bloomberg,0.1253,0.77,0.1048,negative,-0.6447
+2022-11-11,SPY completes previously announced restructuring,SPY,Bloomberg,0.1124,0.4195,0.4681,neutral,-0.3071
+2022-11-11,SPY secures major government contract worth billions,SPY,MarketWatch,0.6892,0.0438,0.267,positive,0.6454
+2022-11-14,SPY announces leadership transition plan,SPY,Bloomberg,0.1695,0.2169,0.6136,neutral,-0.0474
+2022-11-14,Treasury yields climb as inflation data tops expectations,,MarketWatch,0.1792,0.2758,0.5449,neutral,-0.0966
+2022-11-15,SPY reports results in line with expectations,SPY,Yahoo Finance,0.1358,0.3075,0.5567,neutral,-0.1717
+2022-11-15,Options activity in MSFT suggests sideways movement,MSFT,Reuters,0.1851,0.2853,0.5296,neutral,-0.1002
+2022-11-15,Mixed signals for MSFT as sector consolidates,MSFT,CNBC,0.0991,0.3177,0.5832,neutral,-0.2186
+2022-11-16,GDP growth slows but beats revised expectations,,CNBC,0.5548,0.0396,0.4056,positive,0.5152
+2022-11-16,SPY expands into new market with strategic acquisition,SPY,Bloomberg,0.5658,0.0761,0.358,positive,0.4897
+2022-11-16,QQQ reports record revenue in Q4 results,QQQ,MarketWatch,0.6333,0.0747,0.2921,positive,0.5586
+2022-11-18,Trading volume in QQQ remains steady ahead of earnings,QQQ,Yahoo Finance,0.1845,0.2667,0.5488,neutral,-0.0822
+2022-11-22,Options activity in MSFT suggests sideways movement,MSFT,MarketWatch,0.1698,0.163,0.6672,neutral,0.0068
+2022-11-23,QQQ expands into new market with strategic acquisition,QQQ,CNBC,0.5729,0.0223,0.4048,positive,0.5507
+2022-11-24,QQQ lowers guidance amid macroeconomic headwinds,QQQ,Reuters,0.0752,0.6289,0.2959,negative,-0.5536
+2022-11-25,Trade tensions weigh on SPY international revenue,SPY,CNBC,0.1319,0.4046,0.4635,neutral,-0.2727
+2022-11-25,SPY board approves routine corporate matters,SPY,Reuters,0.0725,0.2114,0.7161,neutral,-0.1389
+2022-11-25,SPY reports record revenue in Q1 results,SPY,CNBC,0.8644,0.126,0.0096,positive,0.7383
+2022-11-28,Bond market inversion deepens recession concerns,,Yahoo Finance,0.1323,0.8577,0.01,negative,-0.7255
+2022-11-28,SPY faces regulatory scrutiny over business practices,SPY,CNBC,0.0397,0.5796,0.3807,negative,-0.54
+2022-11-28,GOOGL announces major share buyback program,GOOGL,Yahoo Finance,0.0778,0.4319,0.4903,neutral,-0.3541
+2022-11-29,Trading volume in GOOGL remains steady ahead of earnings,GOOGL,Reuters,0.2576,0.1941,0.5483,neutral,0.0634
+2022-11-30,Small caps outperform as risk appetite improves,,Bloomberg,0.6432,0.0517,0.305,positive,0.5915
+2022-12-01,GOOGL hit by data breach affecting millions of users,GOOGL,Reuters,0.0326,0.8001,0.1673,negative,-0.7675
+2022-12-02,Options activity in QQQ suggests sideways movement,QQQ,CNBC,0.1239,0.3181,0.5581,neutral,-0.1942
+2022-12-06,Wall Street bullish on AAPL growth prospects,AAPL,MarketWatch,0.8635,0.0869,0.0496,positive,0.7766
+2022-12-07,Strong consumer demand drives QQQ sales higher,QQQ,MarketWatch,0.7892,0.0368,0.174,positive,0.7524
+2022-12-08,Sector rotation leaves SPY flat on the day,SPY,CNBC,0.1306,0.1407,0.7287,neutral,-0.0101
+2022-12-09,Market rally lifts GOOGL to new 52-week high,GOOGL,CNBC,0.8115,0.1441,0.0444,positive,0.6674
+2022-12-12,QQQ files routine regulatory paperwork,QQQ,CNBC,0.1769,0.2205,0.6026,neutral,-0.0436
+2022-12-12,Dollar strengthens as global growth concerns persist,,MarketWatch,0.0707,0.5934,0.3359,negative,-0.5226
+2022-12-13,Institutional investors increase holdings in QQQ,QQQ,Bloomberg,0.8654,0.0376,0.097,positive,0.8278
+2022-12-14,QQQ CFO departure raises governance questions,QQQ,Yahoo Finance,0.2168,0.0579,0.7253,neutral,0.1589
+2022-12-14,Competition intensifies as MSFT loses market share,MSFT,MarketWatch,0.091,0.7058,0.2032,negative,-0.6147
+2022-12-14,QQQ dividend increase signals management confidence,QQQ,Reuters,0.6057,0.0483,0.346,positive,0.5574
+2022-12-15,Options activity in QQQ suggests sideways movement,QQQ,Yahoo Finance,0.1462,0.3179,0.5359,neutral,-0.1717
+2022-12-16,GDP growth slows but beats revised expectations,,Bloomberg,0.8887,0.0678,0.0435,positive,0.821
+2022-12-16,Concerns mount over GOOGL slowing growth trajectory,GOOGL,Yahoo Finance,0.0411,0.7438,0.2151,negative,-0.7028
+2022-12-19,Options activity in MSFT suggests sideways movement,MSFT,Yahoo Finance,0.1901,0.1391,0.6708,neutral,0.0509
+2022-12-19,VIX spikes as volatility returns to equity markets,,MarketWatch,0.2868,0.1312,0.582,neutral,0.1556
+2022-12-19,GOOGL profit margins expand amid cost cutting efforts,GOOGL,CNBC,0.2149,0.0679,0.7172,neutral,0.147
+2022-12-22,AAPL faces regulatory scrutiny over business practices,AAPL,Yahoo Finance,0.0934,0.8911,0.0155,negative,-0.7976
+2022-12-23,QQQ to present at upcoming investor conference,QQQ,CNBC,0.1524,0.1496,0.6981,neutral,0.0028
+2022-12-26,QQQ cloud revenue growth accelerates in latest quarter,QQQ,CNBC,0.5821,0.1492,0.2687,positive,0.4329
+2022-12-27,Trade tensions weigh on QQQ international revenue,QQQ,Bloomberg,0.1129,0.3874,0.4997,neutral,-0.2746
+2022-12-27,Global markets rally on trade deal optimism,,CNBC,0.6103,0.0639,0.3258,positive,0.5465
+2022-12-28,Central banks globally signal tightening monetary policy,,Bloomberg,0.2003,0.2629,0.5368,neutral,-0.0627
+2022-12-28,Wall Street bullish on AAPL growth prospects,AAPL,MarketWatch,0.9187,0.0268,0.0545,positive,0.8919
+2022-12-28,MSFT holds investor day with no major announcements,MSFT,Yahoo Finance,0.082,0.2345,0.6835,neutral,-0.1525
+2022-12-29,Manufacturing PMI signals contraction for third month,,Bloomberg,0.103,0.5573,0.3396,negative,-0.4543
+2022-12-30,QQQ cloud revenue growth accelerates in latest quarter,QQQ,Bloomberg,0.8731,0.0429,0.084,positive,0.8302
+2022-12-30,Cryptocurrency volatility spills over into tech stocks,,Yahoo Finance,0.0922,0.3553,0.5525,neutral,-0.2631
+2023-01-02,Strong consumer demand drives QQQ sales higher,QQQ,Yahoo Finance,0.8854,0.0551,0.0594,positive,0.8303
+2023-01-05,GOOGL warns of supply chain disruptions impacting margins,GOOGL,Bloomberg,0.1363,0.7145,0.1491,negative,-0.5782
+2023-01-06,Oil prices surge on geopolitical tensions in Middle East,,Reuters,0.7546,0.1413,0.1042,positive,0.6133
+2023-01-09,QQQ lowers guidance amid macroeconomic headwinds,QQQ,MarketWatch,0.08,0.8928,0.0272,negative,-0.8128
+2023-01-09,QQQ volume picks up ahead of next week earnings,QQQ,MarketWatch,0.1076,0.2677,0.6247,neutral,-0.1601
+2023-01-11,AAPL launches innovative product to positive reviews,AAPL,CNBC,0.9165,0.0562,0.0273,positive,0.8603
+2023-01-12,MSFT completes previously announced restructuring,MSFT,Reuters,0.1282,0.1868,0.685,neutral,-0.0585
+2023-01-12,Retail investors drive unusual options activity,,Reuters,0.076,0.3801,0.5439,neutral,-0.3042
+2023-01-12,Analysts upgrade GOOGL to 'buy' after strong quarter,GOOGL,Reuters,0.7572,0.0518,0.191,positive,0.7053
+2023-01-13,GOOGL cloud revenue growth accelerates in latest quarter,GOOGL,MarketWatch,0.6049,0.0495,0.3456,positive,0.5554
+2023-01-16,"SPY beats earnings expectations, shares surge",SPY,Yahoo Finance,0.6429,0.0855,0.2716,positive,0.5574
+2023-01-16,QQQ files routine regulatory paperwork,QQQ,Yahoo Finance,0.0689,0.3654,0.5658,neutral,-0.2965
+2023-01-16,QQQ faces class action lawsuit from shareholders,QQQ,Reuters,0.1224,0.7483,0.1293,negative,-0.6259
+2023-01-17,Earnings season kicks off with mixed bank results,,CNBC,0.2936,0.0841,0.6223,neutral,0.2095
+2023-01-17,SPY maintains dividend at current levels,SPY,CNBC,0.2553,0.265,0.4797,neutral,-0.0097
+2023-01-19,"SPY beats earnings expectations, shares surge",SPY,Yahoo Finance,0.7371,0.0878,0.1751,positive,0.6493
+2023-01-19,"GOOGL misses revenue estimates, stock drops",GOOGL,MarketWatch,0.0623,0.7421,0.1956,negative,-0.6798
+2023-01-20,SPY warns of supply chain disruptions impacting margins,SPY,Reuters,0.1021,0.6701,0.2278,negative,-0.5679
+2023-01-23,Markets tumble on recession fears and weak economic data,,Yahoo Finance,0.0965,0.5666,0.3369,negative,-0.47
+2023-01-24,Competition intensifies as QQQ loses market share,QQQ,Reuters,0.0663,0.8181,0.1156,negative,-0.7518
+2023-01-25,Bond market inversion deepens recession concerns,,MarketWatch,0.0477,0.6304,0.3218,negative,-0.5827
+2023-01-25,Wall Street bullish on AAPL growth prospects,AAPL,CNBC,0.5803,0.0317,0.3881,positive,0.5486
+2023-01-26,AAPL announces leadership transition plan,AAPL,CNBC,0.0548,0.4452,0.5,neutral,-0.3904
+2023-01-26,QQQ board approves routine corporate matters,QQQ,Bloomberg,0.1266,0.3435,0.5299,neutral,-0.2169
+2023-01-27,Analysts maintain hold rating on SPY,SPY,Yahoo Finance,0.282,0.0095,0.7085,neutral,0.2725
+2023-01-30,Short sellers increase bets against MSFT,MSFT,MarketWatch,0.6192,0.0477,0.3331,positive,0.5715
+2023-01-30,Sector rotation leaves SPY flat on the day,SPY,Reuters,0.0872,0.3152,0.5976,neutral,-0.228
+2023-02-01,MSFT announces leadership transition plan,MSFT,Bloomberg,0.1498,0.2489,0.6012,neutral,-0.0991
+2023-02-01,SPY hit by data breach affecting millions of users,SPY,Reuters,0.1269,0.6701,0.203,negative,-0.5432
+2023-02-01,GOOGL announces major share buyback program,GOOGL,Bloomberg,0.2954,0.0099,0.6947,neutral,0.2854
+2023-02-02,SPY reports results in line with expectations,SPY,MarketWatch,0.2721,0.211,0.5169,neutral,0.0611
+2023-02-02,SPY board approves routine corporate matters,SPY,Bloomberg,0.1979,0.1908,0.6114,neutral,0.0071
+2023-02-02,"QQQ misses revenue estimates, stock drops",QQQ,CNBC,0.1378,0.8525,0.0097,negative,-0.7147
+2023-02-03,Treasury yields climb as inflation data tops expectations,,Bloomberg,0.137,0.195,0.668,neutral,-0.058
+2023-02-06,Analysts upgrade GOOGL to 'buy' after strong quarter,GOOGL,MarketWatch,0.7312,0.1,0.1689,positive,0.6312
+2023-02-08,MSFT secures major government contract worth billions,MSFT,CNBC,0.8566,0.1055,0.0379,positive,0.7511
+2023-02-08,Oil prices surge on geopolitical tensions in Middle East,,Yahoo Finance,0.6852,0.0743,0.2405,positive,0.6109
+2023-02-08,AAPL trading near 50-day moving average,AAPL,Yahoo Finance,0.2811,0.2538,0.4651,neutral,0.0273
+2023-02-09,Cryptocurrency volatility spills over into tech stocks,,Reuters,0.195,0.3286,0.4764,neutral,-0.1336
+2023-02-10,Treasury yields climb as inflation data tops expectations,,Bloomberg,0.1552,0.1333,0.7115,neutral,0.0219
+2023-02-13,Strong consumer demand drives GOOGL sales higher,GOOGL,Bloomberg,0.846,0.1245,0.0295,positive,0.7216
+2023-02-13,AAPL reports results in line with expectations,AAPL,CNBC,0.153,0.379,0.468,neutral,-0.226
+2023-02-15,AAPL announces major share buyback program,AAPL,CNBC,0.1556,0.1871,0.6573,neutral,-0.0315
+2023-02-15,Analysts downgrade GOOGL citing valuation concerns,GOOGL,Yahoo Finance,0.0973,0.7517,0.151,negative,-0.6544
+2023-02-16,Mixed signals for GOOGL as sector consolidates,GOOGL,Reuters,0.153,0.3516,0.4954,neutral,-0.1986
+2023-02-16,SPY completes previously announced restructuring,SPY,Bloomberg,0.0874,0.4541,0.4585,neutral,-0.3666
+2023-02-20,Analysts upgrade MSFT to 'buy' after strong quarter,MSFT,CNBC,0.7395,0.0946,0.1659,positive,0.645
+2023-02-20,AAPL raises full-year guidance above consensus,AAPL,Yahoo Finance,0.6041,0.1182,0.2777,positive,0.4859
+2023-02-21,"Fed signals potential rate changes, markets react",,Bloomberg,0.2802,0.1579,0.5619,neutral,0.1222
+2023-02-21,AAPL layoffs signal deeper problems in core business,AAPL,Yahoo Finance,0.0395,0.6934,0.2671,negative,-0.654
+2023-02-22,Trading volume in SPY remains steady ahead of earnings,SPY,CNBC,0.192,0.1307,0.6774,neutral,0.0613
+2023-02-23,GOOGL layoffs signal deeper problems in core business,GOOGL,Yahoo Finance,0.0663,0.6931,0.2407,negative,-0.6268
+2023-02-27,"Fed signals potential rate changes, markets react",,Yahoo Finance,0.1352,0.3696,0.4952,neutral,-0.2344
+2023-02-27,GOOGL lowers guidance amid macroeconomic headwinds,GOOGL,MarketWatch,0.0853,0.5609,0.3538,negative,-0.4755
+2023-02-27,Strong consumer demand drives AAPL sales higher,AAPL,Yahoo Finance,0.8686,0.1215,0.0099,positive,0.7471
+2023-02-28,MSFT warns of supply chain disruptions impacting margins,MSFT,Yahoo Finance,0.1346,0.5606,0.3049,negative,-0.426
+2023-03-02,GOOGL profit margins expand amid cost cutting efforts,GOOGL,MarketWatch,0.0977,0.3166,0.5857,neutral,-0.2189
+2023-03-06,QQQ trading near 50-day moving average,QQQ,Reuters,0.1307,0.1936,0.6757,neutral,-0.0628
+2023-03-07,Analysts downgrade AAPL citing valuation concerns,AAPL,Bloomberg,0.041,0.6437,0.3153,negative,-0.6028
+2023-03-07,Sector rotation leaves QQQ flat on the day,QQQ,Reuters,0.0733,0.3307,0.596,neutral,-0.2573
+2023-03-08,Short sellers increase bets against AAPL,AAPL,Bloomberg,0.8407,0.0812,0.0781,positive,0.7595
+2023-03-08,Sector rotation leaves SPY flat on the day,SPY,Bloomberg,0.0505,0.3654,0.5841,neutral,-0.315
+2023-03-09,MSFT to present at upcoming investor conference,MSFT,CNBC,0.1732,0.1314,0.6954,neutral,0.0418
+2023-03-10,Markets tumble on recession fears and weak economic data,,Reuters,0.119,0.7128,0.1683,negative,-0.5938
+2023-03-10,SPY warns of supply chain disruptions impacting margins,SPY,Bloomberg,0.0677,0.5733,0.3591,negative,-0.5056
+2023-03-13,Bond market inversion deepens recession concerns,,CNBC,0.0799,0.763,0.1571,negative,-0.6831
+2023-03-14,Tech sector leads market decline on growth concerns,,CNBC,0.0589,0.6172,0.3239,negative,-0.5583
+2023-03-14,MSFT raises full-year guidance above consensus,MSFT,Bloomberg,0.6611,0.149,0.19,positive,0.5121
+2023-03-14,GOOGL lowers guidance amid macroeconomic headwinds,GOOGL,CNBC,0.0467,0.6707,0.2826,negative,-0.624
+2023-03-15,QQQ lowers guidance amid macroeconomic headwinds,QQQ,Bloomberg,0.0748,0.8544,0.0709,negative,-0.7796
+2023-03-16,Options activity in MSFT suggests sideways movement,MSFT,Bloomberg,0.1872,0.2296,0.5832,neutral,-0.0424
+2023-03-16,AAPL files routine regulatory paperwork,AAPL,Bloomberg,0.1976,0.1737,0.6287,neutral,0.024
+2023-03-17,Concerns mount over GOOGL slowing growth trajectory,GOOGL,MarketWatch,0.1264,0.5628,0.3108,negative,-0.4363
+2023-03-20,QQQ trading near 50-day moving average,QQQ,CNBC,0.1231,0.3685,0.5085,neutral,-0.2454
+2023-03-20,VIX spikes as volatility returns to equity markets,,CNBC,0.2418,0.2562,0.502,neutral,-0.0144
+2023-03-22,Mixed signals for AAPL as sector consolidates,AAPL,CNBC,0.2388,0.1361,0.6251,neutral,0.1027
+2023-03-27,Analysts maintain hold rating on MSFT,MSFT,Bloomberg,0.076,0.2779,0.646,neutral,-0.2019
+2023-03-28,AAPL announces major share buyback program,AAPL,CNBC,0.1768,0.2827,0.5404,neutral,-0.1059
+2023-03-28,Mixed signals for MSFT as sector consolidates,MSFT,CNBC,0.1018,0.3567,0.5415,neutral,-0.2549
+2023-03-29,MSFT board approves routine corporate matters,MSFT,MarketWatch,0.2369,0.0521,0.7109,neutral,0.1848
+2023-03-29,MSFT trading near 50-day moving average,MSFT,Bloomberg,0.2413,0.2052,0.5536,neutral,0.0361
+2023-03-30,Central banks globally signal tightening monetary policy,,MarketWatch,0.0509,0.3108,0.6383,neutral,-0.2598
+2023-03-30,Analysts maintain hold rating on SPY,SPY,Reuters,0.1226,0.3133,0.5641,neutral,-0.1907
+2023-03-31,Rising costs pressure AAPL profit margins,AAPL,MarketWatch,0.0527,0.6306,0.3167,negative,-0.5779
+2023-04-03,"GOOGL beats earnings expectations, shares surge",GOOGL,Bloomberg,0.8987,0.0832,0.0181,positive,0.8155
+2023-04-03,Market selloff drags MSFT below key support levels,MSFT,Yahoo Finance,0.0478,0.8637,0.0885,negative,-0.8158
+2023-04-04,Markets tumble on recession fears and weak economic data,,Bloomberg,0.1355,0.6145,0.2499,negative,-0.479
+2023-04-04,GOOGL faces regulatory scrutiny over business practices,GOOGL,CNBC,0.1364,0.7334,0.1302,negative,-0.597
+2023-04-06,MSFT lowers guidance amid macroeconomic headwinds,MSFT,MarketWatch,0.1391,0.5733,0.2875,negative,-0.4342
+2023-04-06,GOOGL completes previously announced restructuring,GOOGL,Bloomberg,0.0888,0.3365,0.5746,neutral,-0.2477
+2023-04-06,"MSFT misses revenue estimates, stock drops",MSFT,Bloomberg,0.1236,0.8029,0.0736,negative,-0.6793
+2023-04-11,Short sellers increase bets against SPY,SPY,Reuters,0.5675,0.1483,0.2841,positive,0.4192
+2023-04-12,AAPL raises full-year guidance above consensus,AAPL,CNBC,0.8079,0.0618,0.1303,positive,0.7461
+2023-04-13,Market selloff drags QQQ below key support levels,QQQ,Bloomberg,0.071,0.606,0.323,negative,-0.5349
+2023-04-14,Institutional investors increase holdings in SPY,SPY,CNBC,0.6316,0.0842,0.2842,positive,0.5474
+2023-04-18,SPY raises full-year guidance above consensus,SPY,Yahoo Finance,0.8393,0.1058,0.0549,positive,0.7335
+2023-04-18,Market selloff drags SPY below key support levels,SPY,Bloomberg,0.0355,0.7113,0.2532,negative,-0.6758
+2023-04-19,Analysts maintain hold rating on SPY,SPY,Reuters,0.1176,0.1453,0.7371,neutral,-0.0277
+2023-04-19,Earnings season kicks off with mixed bank results,,Reuters,0.2114,0.2553,0.5334,neutral,-0.0439
+2023-04-20,QQQ dividend increase signals management confidence,QQQ,MarketWatch,0.8351,0.1479,0.017,positive,0.6871
+2023-04-21,MSFT files routine regulatory paperwork,MSFT,CNBC,0.2705,0.0097,0.7197,neutral,0.2608
+2023-04-21,QQQ launches innovative product to positive reviews,QQQ,CNBC,0.7111,0.0417,0.2473,positive,0.6694
+2023-04-25,SPY expands into new market with strategic acquisition,SPY,CNBC,0.7663,0.0222,0.2115,positive,0.744
+2023-04-27,MSFT hit by data breach affecting millions of users,MSFT,Yahoo Finance,0.0203,0.6226,0.3571,negative,-0.6023
+2023-04-28,QQQ completes previously announced restructuring,QQQ,Bloomberg,0.1687,0.3271,0.5042,neutral,-0.1585
+2023-04-28,Treasury yields climb as inflation data tops expectations,,MarketWatch,0.1423,0.2897,0.568,neutral,-0.1474
+2023-04-28,Concerns mount over GOOGL slowing growth trajectory,GOOGL,Bloomberg,0.1077,0.8575,0.0348,negative,-0.7497
+2023-05-01,QQQ maintains dividend at current levels,QQQ,Yahoo Finance,0.1613,0.1077,0.7309,neutral,0.0536
+2023-05-01,MSFT warns of supply chain disruptions impacting margins,MSFT,MarketWatch,0.0359,0.6507,0.3133,negative,-0.6148
+2023-05-03,GOOGL files routine regulatory paperwork,GOOGL,MarketWatch,0.2604,0.088,0.6516,neutral,0.1725
+2023-05-03,AAPL announces leadership transition plan,AAPL,CNBC,0.2697,0.2252,0.5051,neutral,0.0445
+2023-05-04,QQQ board approves routine corporate matters,QQQ,MarketWatch,0.086,0.3061,0.6079,neutral,-0.2201
+2023-05-08,Strong consumer demand drives SPY sales higher,SPY,Bloomberg,0.7879,0.0876,0.1245,positive,0.7003
+2023-05-08,QQQ reports record revenue in Q3 results,QQQ,Yahoo Finance,0.5604,0.0719,0.3677,positive,0.4885
+2023-05-08,Dollar strengthens as global growth concerns persist,,Bloomberg,0.0922,0.8404,0.0674,negative,-0.7482
+2023-05-09,QQQ profit margins expand amid cost cutting efforts,QQQ,CNBC,0.2822,0.1832,0.5346,neutral,0.0989
+2023-05-10,QQQ hit by data breach affecting millions of users,QQQ,CNBC,0.0529,0.638,0.3092,negative,-0.5851
+2023-05-11,Dollar strengthens as global growth concerns persist,,CNBC,0.1363,0.6812,0.1825,negative,-0.5449
+2023-05-12,GOOGL launches innovative product to positive reviews,GOOGL,MarketWatch,0.7378,0.1087,0.1535,positive,0.6291
+2023-05-15,Dollar strengthens as global growth concerns persist,,CNBC,0.1168,0.8736,0.0096,negative,-0.7568
+2023-05-15,Options activity in QQQ suggests sideways movement,QQQ,Bloomberg,0.2471,0.2511,0.5018,neutral,-0.004
+2023-05-16,GDP growth slows but beats revised expectations,,MarketWatch,0.8269,0.0502,0.1229,positive,0.7766
+2023-05-18,"AAPL misses revenue estimates, stock drops",AAPL,CNBC,0.1123,0.6704,0.2173,negative,-0.5581
+2023-05-19,Analysts downgrade QQQ citing valuation concerns,QQQ,MarketWatch,0.0471,0.6382,0.3147,negative,-0.5911
+2023-05-22,Competition intensifies as MSFT loses market share,MSFT,CNBC,0.1345,0.8103,0.0552,negative,-0.6758
+2023-05-24,MSFT files routine regulatory paperwork,MSFT,Reuters,0.1615,0.366,0.4725,neutral,-0.2045
+2023-05-24,Concerns mount over GOOGL slowing growth trajectory,GOOGL,Reuters,0.1079,0.7747,0.1174,negative,-0.6667
+2023-05-24,Wall Street bullish on SPY growth prospects,SPY,Reuters,0.8855,0.1048,0.0096,positive,0.7807
+2023-05-25,Competition intensifies as AAPL loses market share,AAPL,CNBC,0.1487,0.7795,0.0719,negative,-0.6308
+2023-05-25,Strong consumer demand drives MSFT sales higher,MSFT,MarketWatch,0.5724,0.0297,0.3979,positive,0.5428
+2023-05-25,Markets tumble on recession fears and weak economic data,,Bloomberg,0.0666,0.7575,0.1759,negative,-0.6908
+2023-05-26,Mixed signals for GOOGL as sector consolidates,GOOGL,MarketWatch,0.1266,0.3944,0.479,neutral,-0.2678
+2023-05-26,SPY volume picks up ahead of next week earnings,SPY,MarketWatch,0.2702,0.0775,0.6523,neutral,0.1926
+2023-05-29,MSFT to present at upcoming investor conference,MSFT,Reuters,0.185,0.3367,0.4783,neutral,-0.1516
+2023-05-29,Options activity in SPY suggests sideways movement,SPY,Bloomberg,0.2168,0.2443,0.5388,neutral,-0.0275
+2023-06-01,SPY maintains dividend at current levels,SPY,Yahoo Finance,0.2817,0.1035,0.6148,neutral,0.1782
+2023-06-01,Market rally lifts QQQ to new 52-week high,QQQ,MarketWatch,0.5639,0.0811,0.355,positive,0.4828
+2023-06-06,Retail investors drive unusual options activity,,MarketWatch,0.1842,0.308,0.5078,neutral,-0.1238
+2023-06-06,Rising costs pressure MSFT profit margins,MSFT,MarketWatch,0.1365,0.8536,0.0099,negative,-0.7171
+2023-06-07,Trading volume in QQQ remains steady ahead of earnings,QQQ,Yahoo Finance,0.2529,0.1776,0.5695,neutral,0.0754
+2023-06-08,Small caps outperform as risk appetite improves,,Bloomberg,0.6538,0.0208,0.3254,positive,0.633
+2023-06-09,Competition intensifies as AAPL loses market share,AAPL,Bloomberg,0.0355,0.8664,0.098,negative,-0.8309
+2023-06-09,AAPL faces class action lawsuit from shareholders,AAPL,MarketWatch,0.066,0.5565,0.3775,negative,-0.4905
+2023-06-09,GOOGL warns of supply chain disruptions impacting margins,GOOGL,Reuters,0.03,0.6904,0.2796,negative,-0.6603
+2023-06-13,Market selloff drags MSFT below key support levels,MSFT,Bloomberg,0.0727,0.8512,0.076,negative,-0.7785
+2023-06-13,QQQ CFO departure raises governance questions,QQQ,Reuters,0.1162,0.2869,0.597,neutral,-0.1707
+2023-06-14,Analysts upgrade AAPL to 'buy' after strong quarter,AAPL,CNBC,0.7393,0.1197,0.1411,positive,0.6196
+2023-06-14,QQQ layoffs signal deeper problems in core business,QQQ,CNBC,0.1404,0.85,0.0096,negative,-0.7097
+2023-06-15,MSFT files routine regulatory paperwork,MSFT,Yahoo Finance,0.2975,0.1245,0.578,neutral,0.173
+2023-06-16,GOOGL files routine regulatory paperwork,GOOGL,Bloomberg,0.0517,0.4098,0.5385,neutral,-0.358
+2023-06-16,Institutional investors increase holdings in MSFT,MSFT,MarketWatch,0.834,0.0432,0.1228,positive,0.7908
+2023-06-19,"SPY beats earnings expectations, shares surge",SPY,Bloomberg,0.5694,0.1401,0.2905,positive,0.4293
+2023-06-19,Treasury yields climb as inflation data tops expectations,,MarketWatch,0.0757,0.2368,0.6875,neutral,-0.1611
+2023-06-20,Short sellers increase bets against QQQ,QQQ,Reuters,0.8375,0.1297,0.0328,positive,0.7077
+2023-06-20,Sector rotation leaves AAPL flat on the day,AAPL,Bloomberg,0.1859,0.0925,0.7216,neutral,0.0934
+2023-06-21,Tech sector leads market decline on growth concerns,,MarketWatch,0.1191,0.8103,0.0706,negative,-0.6912
+2023-06-22,QQQ hit by data breach affecting millions of users,QQQ,Bloomberg,0.1041,0.8048,0.0911,negative,-0.7007
+2023-06-22,SPY cloud revenue growth accelerates in latest quarter,SPY,Yahoo Finance,0.7526,0.0823,0.1651,positive,0.6703
+2023-06-23,MSFT launches innovative product to positive reviews,MSFT,Yahoo Finance,0.9186,0.0639,0.0176,positive,0.8547
+2023-06-23,QQQ holds investor day with no major announcements,QQQ,CNBC,0.2413,0.2823,0.4765,neutral,-0.041
+2023-06-26,"MSFT beats earnings expectations, shares surge",MSFT,Reuters,0.6291,0.0893,0.2816,positive,0.5399
+2023-06-26,Housing market shows signs of cooling as rates rise,,Reuters,0.2048,0.3164,0.4787,neutral,-0.1116
+2023-06-28,AAPL secures major government contract worth billions,AAPL,Bloomberg,0.8789,0.1114,0.0098,positive,0.7675
+2023-06-28,Wall Street bullish on SPY growth prospects,SPY,Reuters,0.6294,0.1462,0.2244,positive,0.4831
+2023-06-29,"MSFT misses revenue estimates, stock drops",MSFT,Reuters,0.0768,0.6636,0.2596,negative,-0.5869
+2023-06-30,Short sellers increase bets against SPY,SPY,Yahoo Finance,0.7343,0.1488,0.1169,positive,0.5855
+2023-07-03,MSFT to present at upcoming investor conference,MSFT,Reuters,0.2242,0.3052,0.4707,neutral,-0.081
+2023-07-03,Strong consumer demand drives QQQ sales higher,QQQ,Yahoo Finance,0.6839,0.0302,0.2859,positive,0.6537
+2023-07-04,"Fed signals potential rate changes, markets react",,Bloomberg,0.1975,0.072,0.7305,neutral,0.1254
+2023-07-05,SPY CFO departure raises governance questions,SPY,Reuters,0.1101,0.2138,0.6761,neutral,-0.1038
+2023-07-05,Manufacturing PMI signals contraction for third month,,Yahoo Finance,0.1277,0.8318,0.0405,negative,-0.7041
+2023-07-05,MSFT to present at upcoming investor conference,MSFT,Yahoo Finance,0.193,0.2278,0.5792,neutral,-0.0348
+2023-07-06,Concerns mount over AAPL slowing growth trajectory,AAPL,Bloomberg,0.1239,0.8666,0.0095,negative,-0.7426
+2023-07-07,Trading volume in MSFT remains steady ahead of earnings,MSFT,Reuters,0.2161,0.2004,0.5835,neutral,0.0157
+2023-07-07,Concerns mount over GOOGL slowing growth trajectory,GOOGL,MarketWatch,0.0232,0.8402,0.1367,negative,-0.817
+2023-07-07,Rising costs pressure QQQ profit margins,QQQ,Bloomberg,0.148,0.7677,0.0843,negative,-0.6197
+2023-07-10,QQQ completes previously announced restructuring,QQQ,CNBC,0.2575,0.01,0.7325,neutral,0.2475
+2023-07-10,MSFT hit by data breach affecting millions of users,MSFT,Yahoo Finance,0.1492,0.5893,0.2615,negative,-0.4401
+2023-07-11,SPY cloud revenue growth accelerates in latest quarter,SPY,Yahoo Finance,0.7755,0.049,0.1755,positive,0.7266
+2023-07-12,Strong consumer demand drives MSFT sales higher,MSFT,CNBC,0.7995,0.1313,0.0692,positive,0.6681
+2023-07-12,QQQ maintains dividend at current levels,QQQ,Bloomberg,0.2791,0.2372,0.4837,neutral,0.0419
+2023-07-13,Rising costs pressure SPY profit margins,SPY,MarketWatch,0.0218,0.8905,0.0878,negative,-0.8687
+2023-07-13,Bond market inversion deepens recession concerns,,MarketWatch,0.1381,0.8523,0.0097,negative,-0.7142
+2023-07-14,GOOGL faces class action lawsuit from shareholders,GOOGL,Yahoo Finance,0.0582,0.5639,0.3778,negative,-0.5057
+2023-07-17,AAPL secures major government contract worth billions,AAPL,MarketWatch,0.688,0.0654,0.2466,positive,0.6227
+2023-07-18,GOOGL hit by data breach affecting millions of users,GOOGL,CNBC,0.0666,0.8308,0.1026,negative,-0.7643
+2023-07-18,SPY warns of supply chain disruptions impacting margins,SPY,CNBC,0.1405,0.8501,0.0094,negative,-0.7097
+2023-07-18,Short sellers increase bets against SPY,SPY,CNBC,0.6672,0.0861,0.2466,positive,0.5811
+2023-07-19,Analysts maintain hold rating on GOOGL,GOOGL,MarketWatch,0.1949,0.1878,0.6173,neutral,0.007
+2023-07-20,Trade tensions weigh on SPY international revenue,SPY,Bloomberg,0.0915,0.3462,0.5623,neutral,-0.2547
+2023-07-21,Analysts downgrade MSFT citing valuation concerns,MSFT,Bloomberg,0.0338,0.5702,0.396,negative,-0.5364
+2023-07-24,Central banks globally signal tightening monetary policy,,Reuters,0.1201,0.1595,0.7204,neutral,-0.0394
+2023-07-26,Mixed signals for MSFT as sector consolidates,MSFT,Yahoo Finance,0.2059,0.3211,0.473,neutral,-0.1152
+2023-07-27,Small caps outperform as risk appetite improves,,Yahoo Finance,0.5779,0.0291,0.393,positive,0.5488
+2023-07-27,"AAPL misses revenue estimates, stock drops",AAPL,Yahoo Finance,0.0969,0.78,0.1231,negative,-0.6831
+2023-07-28,S&P 500 closes at session highs on broad rally,,CNBC,0.5653,0.0799,0.3548,positive,0.4855
+2023-07-31,AAPL trading near 50-day moving average,AAPL,CNBC,0.1867,0.2326,0.5807,neutral,-0.0459
+2023-07-31,MSFT faces class action lawsuit from shareholders,MSFT,MarketWatch,0.0568,0.823,0.1202,negative,-0.7662
+2023-07-31,Central banks globally signal tightening monetary policy,,MarketWatch,0.2482,0.172,0.5798,neutral,0.0762
+2023-08-01,Oil prices surge on geopolitical tensions in Middle East,,Bloomberg,0.8594,0.131,0.0096,positive,0.7284
+2023-08-02,AAPL announces leadership transition plan,AAPL,MarketWatch,0.1802,0.2265,0.5933,neutral,-0.0463
+2023-08-03,VIX spikes as volatility returns to equity markets,,Reuters,0.2672,0.1241,0.6087,neutral,0.1431
+2023-08-03,AAPL dividend increase signals management confidence,AAPL,MarketWatch,0.8608,0.0605,0.0787,positive,0.8003
+2023-08-03,SPY launches innovative product to positive reviews,SPY,CNBC,0.6103,0.0693,0.3205,positive,0.541
+2023-08-04,QQQ completes previously announced restructuring,QQQ,Reuters,0.2877,0.1758,0.5365,neutral,0.1119
+2023-08-04,Concerns mount over MSFT slowing growth trajectory,MSFT,CNBC,0.0436,0.6484,0.3081,negative,-0.6048
+2023-08-04,GOOGL board approves routine corporate matters,GOOGL,Bloomberg,0.0716,0.2085,0.7198,neutral,-0.1369
+2023-08-07,QQQ launches innovative product to positive reviews,QQQ,Yahoo Finance,0.6463,0.0771,0.2766,positive,0.5692
+2023-08-07,Oil prices surge on geopolitical tensions in Middle East,,Yahoo Finance,0.7702,0.0626,0.1672,positive,0.7076
+2023-08-08,Analysts upgrade MSFT to 'buy' after strong quarter,MSFT,MarketWatch,0.7336,0.0458,0.2205,positive,0.6878
+2023-08-09,Competition intensifies as AAPL loses market share,AAPL,Bloomberg,0.073,0.7625,0.1645,negative,-0.6895
+2023-08-09,Trading volume in AAPL remains steady ahead of earnings,AAPL,Yahoo Finance,0.1539,0.1413,0.7048,neutral,0.0126
+2023-08-10,MSFT maintains dividend at current levels,MSFT,MarketWatch,0.198,0.2188,0.5831,neutral,-0.0208
+2023-08-11,AAPL reports record revenue in Q1 results,AAPL,CNBC,0.5956,0.0404,0.364,positive,0.5552
+2023-08-11,GOOGL layoffs signal deeper problems in core business,GOOGL,Yahoo Finance,0.0555,0.8424,0.1021,negative,-0.7868
+2023-08-14,Manufacturing PMI signals contraction for third month,,MarketWatch,0.0327,0.8033,0.164,negative,-0.7707
+2023-08-14,Analysts upgrade AAPL to 'buy' after strong quarter,AAPL,Bloomberg,0.8435,0.1466,0.0099,positive,0.6969
+2023-08-16,Mixed signals for SPY as sector consolidates,SPY,Reuters,0.1764,0.2615,0.5621,neutral,-0.0851
+2023-08-16,Earnings season kicks off with mixed bank results,,Yahoo Finance,0.2735,0.1436,0.5828,neutral,0.1299
+2023-08-17,S&P 500 closes at session highs on broad rally,,Yahoo Finance,0.5537,0.1049,0.3414,positive,0.4487
+2023-08-17,"Job report exceeds expectations, stocks mixed",,Yahoo Finance,0.1456,0.2087,0.6457,neutral,-0.0631
+2023-08-18,Institutional investors increase holdings in AAPL,AAPL,Reuters,0.6312,0.0512,0.3177,positive,0.58
+2023-08-18,Analysts downgrade SPY citing valuation concerns,SPY,Reuters,0.0286,0.8462,0.1252,negative,-0.8176
+2023-08-21,QQQ lowers guidance amid macroeconomic headwinds,QQQ,Bloomberg,0.0599,0.7586,0.1815,negative,-0.6987
+2023-08-22,SPY warns of supply chain disruptions impacting margins,SPY,Yahoo Finance,0.0857,0.6481,0.2661,negative,-0.5624
+2023-08-22,SPY dividend increase signals management confidence,SPY,Reuters,0.8822,0.1004,0.0174,positive,0.7819
+2023-08-22,Mixed signals for GOOGL as sector consolidates,GOOGL,CNBC,0.2002,0.1132,0.6866,neutral,0.0869
+2023-08-23,Concerns mount over MSFT slowing growth trajectory,MSFT,Bloomberg,0.0762,0.8082,0.1156,negative,-0.7319
+2023-08-23,Tech sector leads market decline on growth concerns,,Yahoo Finance,0.0853,0.8926,0.0221,negative,-0.8074
+2023-08-24,MSFT dividend increase signals management confidence,MSFT,Bloomberg,0.7542,0.0882,0.1576,positive,0.6659
+2023-08-24,AAPL faces regulatory scrutiny over business practices,AAPL,MarketWatch,0.0501,0.667,0.2829,negative,-0.6169
+2023-08-25,MSFT announces major share buyback program,MSFT,MarketWatch,0.2295,0.2983,0.4722,neutral,-0.0688
+2023-08-28,Manufacturing PMI signals contraction for third month,,Reuters,0.0706,0.657,0.2724,negative,-0.5864
+2023-08-28,GOOGL profit margins expand amid cost cutting efforts,GOOGL,Reuters,0.1916,0.0824,0.726,neutral,0.1092
+2023-08-29,"MSFT misses revenue estimates, stock drops",MSFT,Reuters,0.1239,0.5859,0.2901,negative,-0.462
+2023-08-29,AAPL dividend increase signals management confidence,AAPL,Bloomberg,0.6448,0.0919,0.2634,positive,0.5529
+2023-08-30,"Fed signals potential rate changes, markets react",,CNBC,0.1095,0.2875,0.603,neutral,-0.178
+2023-08-31,AAPL CFO departure raises governance questions,AAPL,Reuters,0.1028,0.4125,0.4847,neutral,-0.3096
+2023-08-31,QQQ dividend increase signals management confidence,QQQ,CNBC,0.586,0.0558,0.3582,positive,0.5302
+2023-09-01,"QQQ misses revenue estimates, stock drops",QQQ,Yahoo Finance,0.0722,0.9178,0.01,negative,-0.8457
+2023-09-04,"QQQ misses revenue estimates, stock drops",QQQ,Bloomberg,0.0914,0.8696,0.039,negative,-0.7782
+2023-09-05,Sector rotation leaves SPY flat on the day,SPY,MarketWatch,0.0891,0.2609,0.65,neutral,-0.1719
+2023-09-07,Analysts upgrade MSFT to 'buy' after strong quarter,MSFT,MarketWatch,0.6517,0.0864,0.262,positive,0.5653
+2023-09-07,Small caps outperform as risk appetite improves,,Yahoo Finance,0.876,0.0256,0.0984,positive,0.8504
+2023-09-08,QQQ expands into new market with strategic acquisition,QQQ,Bloomberg,0.7376,0.0266,0.2358,positive,0.7109
+2023-09-08,Consumer confidence drops to lowest level in six months,,Bloomberg,0.1018,0.719,0.1792,negative,-0.6173
+2023-09-08,Global markets rally on trade deal optimism,,Bloomberg,0.8255,0.038,0.1364,positive,0.7875
+2023-09-11,MSFT raises full-year guidance above consensus,MSFT,Reuters,0.6116,0.0811,0.3073,positive,0.5305
+2023-09-11,QQQ announces leadership transition plan,QQQ,MarketWatch,0.139,0.1116,0.7494,neutral,0.0274
+2023-09-12,QQQ reports record revenue in Q1 results,QQQ,Reuters,0.7082,0.0762,0.2156,positive,0.632
+2023-09-13,Institutional investors increase holdings in MSFT,MSFT,CNBC,0.5799,0.1206,0.2995,positive,0.4592
+2023-09-13,GOOGL announces leadership transition plan,GOOGL,Reuters,0.2259,0.2482,0.5259,neutral,-0.0222
+2023-09-14,GDP growth slows but beats revised expectations,,Bloomberg,0.7258,0.0995,0.1747,positive,0.6263
+2023-09-15,Institutional investors increase holdings in AAPL,AAPL,Yahoo Finance,0.57,0.1357,0.2943,positive,0.4343
+2023-09-18,Analysts downgrade AAPL citing valuation concerns,AAPL,Reuters,0.1071,0.6402,0.2527,negative,-0.5331
+2023-09-19,AAPL secures major government contract worth billions,AAPL,Yahoo Finance,0.8453,0.0902,0.0645,positive,0.7551
+2023-09-19,QQQ profit margins expand amid cost cutting efforts,QQQ,CNBC,0.2945,0.1543,0.5512,neutral,0.1402
+2023-09-19,Earnings season kicks off with mixed bank results,,Yahoo Finance,0.2872,0.1793,0.5335,neutral,0.1079
+2023-09-20,AAPL launches innovative product to positive reviews,AAPL,Reuters,0.6078,0.0706,0.3216,positive,0.5372
+2023-09-20,"MSFT misses revenue estimates, stock drops",MSFT,MarketWatch,0.0203,0.6012,0.3785,negative,-0.581
+2023-09-21,GOOGL faces class action lawsuit from shareholders,GOOGL,Yahoo Finance,0.0313,0.6463,0.3224,negative,-0.615
+2023-09-22,GDP growth slows but beats revised expectations,,Yahoo Finance,0.8764,0.114,0.0096,positive,0.7624
+2023-09-25,Market selloff drags QQQ below key support levels,QQQ,Yahoo Finance,0.0491,0.5514,0.3996,negative,-0.5023
+2023-09-25,"QQQ misses revenue estimates, stock drops",QQQ,Reuters,0.0718,0.7979,0.1302,negative,-0.7261
+2023-09-26,MSFT CFO departure raises governance questions,MSFT,Yahoo Finance,0.1762,0.1242,0.6996,neutral,0.052
+2023-09-27,GOOGL hit by data breach affecting millions of users,GOOGL,Yahoo Finance,0.0976,0.7919,0.1105,negative,-0.6942
+2023-09-27,SPY reports results in line with expectations,SPY,CNBC,0.1075,0.251,0.6415,neutral,-0.1435
+2023-09-27,Market selloff drags QQQ below key support levels,QQQ,Bloomberg,0.0266,0.6881,0.2853,negative,-0.6615
+2023-09-28,Markets tumble on recession fears and weak economic data,,Yahoo Finance,0.0797,0.7674,0.1529,negative,-0.6877
+2023-09-28,Institutional investors increase holdings in SPY,SPY,MarketWatch,0.8315,0.0468,0.1217,positive,0.7846
+2023-09-28,Cryptocurrency volatility spills over into tech stocks,,CNBC,0.0952,0.3238,0.581,neutral,-0.2286
+2023-09-29,Manufacturing PMI signals contraction for third month,,Yahoo Finance,0.1302,0.7772,0.0926,negative,-0.6469
+2023-10-03,Short sellers increase bets against MSFT,MSFT,Bloomberg,0.8332,0.1427,0.024,positive,0.6905
+2023-10-04,VIX spikes as volatility returns to equity markets,,Reuters,0.243,0.0155,0.7415,neutral,0.2275
+2023-10-05,Options activity in AAPL suggests sideways movement,AAPL,Reuters,0.1048,0.3591,0.536,neutral,-0.2543
+2023-10-05,S&P 500 closes at session highs on broad rally,,MarketWatch,0.7156,0.1492,0.1352,positive,0.5664
+2023-10-05,GOOGL board approves routine corporate matters,GOOGL,Bloomberg,0.0998,0.3264,0.5738,neutral,-0.2267
+2023-10-06,Manufacturing PMI signals contraction for third month,,CNBC,0.0702,0.8994,0.0304,negative,-0.8292
+2023-10-06,GOOGL holds investor day with no major announcements,GOOGL,Yahoo Finance,0.247,0.0957,0.6573,neutral,0.1513
+2023-10-09,AAPL reports record revenue in Q4 results,AAPL,Reuters,0.862,0.1268,0.0113,positive,0.7352
+2023-10-10,QQQ files routine regulatory paperwork,QQQ,MarketWatch,0.2169,0.0822,0.7009,neutral,0.1347
+2023-10-11,Market rally lifts SPY to new 52-week high,SPY,Bloomberg,0.6994,0.1067,0.1938,positive,0.5927
+2023-10-11,GOOGL layoffs signal deeper problems in core business,GOOGL,Bloomberg,0.0656,0.8596,0.0748,negative,-0.794
+2023-10-12,GOOGL cloud revenue growth accelerates in latest quarter,GOOGL,CNBC,0.6597,0.0647,0.2756,positive,0.595
+2023-10-13,Options activity in QQQ suggests sideways movement,QQQ,Bloomberg,0.0631,0.3215,0.6154,neutral,-0.2584
+2023-10-16,QQQ hit by data breach affecting millions of users,QQQ,Bloomberg,0.0381,0.8382,0.1237,negative,-0.8002
+2023-10-17,MSFT reports results in line with expectations,MSFT,MarketWatch,0.0994,0.4107,0.4899,neutral,-0.3113
+2023-10-17,QQQ faces regulatory scrutiny over business practices,QQQ,Reuters,0.0571,0.7635,0.1794,negative,-0.7063
+2023-10-17,QQQ launches innovative product to positive reviews,QQQ,MarketWatch,0.6862,0.1411,0.1727,positive,0.5451
+2023-10-23,S&P 500 closes at session highs on broad rally,,Reuters,0.8598,0.1302,0.01,positive,0.7296
+2023-10-23,MSFT board approves routine corporate matters,MSFT,Reuters,0.2666,0.1101,0.6233,neutral,0.1565
+2023-10-23,Analysts upgrade QQQ to 'buy' after strong quarter,QQQ,Bloomberg,0.8381,0.1439,0.018,positive,0.6941
+2023-10-24,Trade tensions weigh on GOOGL international revenue,GOOGL,Bloomberg,0.0572,0.4735,0.4693,neutral,-0.4163
+2023-10-24,GOOGL board approves routine corporate matters,GOOGL,MarketWatch,0.2823,0.2152,0.5025,neutral,0.0671
+2023-10-25,MSFT announces major share buyback program,MSFT,Reuters,0.1565,0.2118,0.6317,neutral,-0.0553
+2023-10-25,Manufacturing PMI signals contraction for third month,,Yahoo Finance,0.1278,0.7397,0.1324,negative,-0.6119
+2023-10-25,Treasury yields climb as inflation data tops expectations,,Yahoo Finance,0.2324,0.0388,0.7287,neutral,0.1936
+2023-10-26,GOOGL to present at upcoming investor conference,GOOGL,Yahoo Finance,0.1301,0.192,0.678,neutral,-0.0619
+2023-10-27,Earnings season kicks off with mixed bank results,,CNBC,0.2713,0.1386,0.5901,neutral,0.1327
+2023-10-30,"AAPL misses revenue estimates, stock drops",AAPL,Reuters,0.109,0.8408,0.0502,negative,-0.7318
+2023-10-30,QQQ lowers guidance amid macroeconomic headwinds,QQQ,Yahoo Finance,0.0251,0.5741,0.4007,negative,-0.549
+2023-10-30,"QQQ misses revenue estimates, stock drops",QQQ,Yahoo Finance,0.0956,0.5983,0.3062,negative,-0.5027
+2023-11-01,Earnings season kicks off with mixed bank results,,Bloomberg,0.2857,0.1034,0.6109,neutral,0.1823
+2023-11-02,AAPL reports record revenue in Q4 results,AAPL,MarketWatch,0.8071,0.0582,0.1347,positive,0.7488
+2023-11-02,AAPL announces leadership transition plan,AAPL,Bloomberg,0.2624,0.2392,0.4984,neutral,0.0232
+2023-11-03,Trading volume in QQQ remains steady ahead of earnings,QQQ,CNBC,0.2134,0.1987,0.5879,neutral,0.0146
+2023-11-03,Analysts maintain hold rating on AAPL,AAPL,MarketWatch,0.0769,0.3036,0.6195,neutral,-0.2267
+2023-11-03,GOOGL completes previously announced restructuring,GOOGL,Reuters,0.1443,0.3886,0.4671,neutral,-0.2444
+2023-11-07,Rising costs pressure GOOGL profit margins,GOOGL,CNBC,0.1076,0.6838,0.2086,negative,-0.5762
+2023-11-07,Wall Street bullish on AAPL growth prospects,AAPL,Reuters,0.7839,0.146,0.0701,positive,0.638
+2023-11-09,"Fed signals potential rate changes, markets react",,MarketWatch,0.1741,0.1184,0.7074,neutral,0.0557
+2023-11-09,GOOGL expands into new market with strategic acquisition,GOOGL,Reuters,0.735,0.1076,0.1574,positive,0.6274
+2023-11-10,Strong consumer demand drives AAPL sales higher,AAPL,MarketWatch,0.5922,0.15,0.2578,positive,0.4422
+2023-11-10,MSFT announces leadership transition plan,MSFT,Bloomberg,0.2775,0.1169,0.6056,neutral,0.1606
+2023-11-13,SPY faces class action lawsuit from shareholders,SPY,Bloomberg,0.0943,0.8958,0.0099,negative,-0.8015
+2023-11-13,QQQ maintains dividend at current levels,QQQ,Bloomberg,0.1933,0.3257,0.481,neutral,-0.1323
+2023-11-13,Institutional investors increase holdings in SPY,SPY,Reuters,0.7711,0.1226,0.1063,positive,0.6485
+2023-11-14,SPY faces regulatory scrutiny over business practices,SPY,Bloomberg,0.0806,0.5678,0.3515,negative,-0.4872
+2023-11-14,Mixed signals for SPY as sector consolidates,SPY,Yahoo Finance,0.2878,0.0097,0.7025,neutral,0.2782
+2023-11-15,MSFT expands into new market with strategic acquisition,MSFT,Reuters,0.6208,0.1332,0.246,positive,0.4876
+2023-11-15,MSFT cloud revenue growth accelerates in latest quarter,MSFT,CNBC,0.6041,0.1294,0.2665,positive,0.4748
+2023-11-16,GOOGL raises full-year guidance above consensus,GOOGL,Yahoo Finance,0.6526,0.1448,0.2027,positive,0.5078
+2023-11-17,MSFT volume picks up ahead of next week earnings,MSFT,Reuters,0.1498,0.1916,0.6586,neutral,-0.0418
+2023-11-20,SPY layoffs signal deeper problems in core business,SPY,Bloomberg,0.0506,0.654,0.2955,negative,-0.6034
+2023-11-20,"AAPL beats earnings expectations, shares surge",AAPL,Yahoo Finance,0.8019,0.1365,0.0617,positive,0.6654
+2023-11-21,AAPL reports record revenue in Q2 results,AAPL,CNBC,0.8293,0.1285,0.0421,positive,0.7008
+2023-11-21,Trading volume in SPY remains steady ahead of earnings,SPY,Bloomberg,0.2948,0.0208,0.6844,neutral,0.274
+2023-11-23,Strong consumer demand drives GOOGL sales higher,GOOGL,Yahoo Finance,0.8304,0.0473,0.1223,positive,0.7831
+2023-11-27,QQQ files routine regulatory paperwork,QQQ,Reuters,0.1305,0.182,0.6875,neutral,-0.0515
+2023-11-27,"SPY misses revenue estimates, stock drops",SPY,Reuters,0.069,0.9184,0.0126,negative,-0.8495
+2023-11-28,MSFT to present at upcoming investor conference,MSFT,Bloomberg,0.1098,0.3524,0.5378,neutral,-0.2426
+2023-11-29,QQQ warns of supply chain disruptions impacting margins,QQQ,Yahoo Finance,0.0342,0.7937,0.1722,negative,-0.7595
+2023-11-29,GOOGL expands into new market with strategic acquisition,GOOGL,Reuters,0.9028,0.0583,0.0389,positive,0.8446
+2023-11-30,AAPL reports results in line with expectations,AAPL,CNBC,0.0615,0.3999,0.5386,neutral,-0.3383
+2023-11-30,Concerns mount over AAPL slowing growth trajectory,AAPL,Reuters,0.0745,0.641,0.2845,negative,-0.5666
+2023-12-01,SPY reports record revenue in Q2 results,SPY,Reuters,0.6868,0.0555,0.2578,positive,0.6313
+2023-12-01,Rising costs pressure AAPL profit margins,AAPL,CNBC,0.0591,0.5651,0.3758,negative,-0.506
+2023-12-04,SPY volume picks up ahead of next week earnings,SPY,CNBC,0.1597,0.1568,0.6835,neutral,0.0029
+2023-12-05,MSFT layoffs signal deeper problems in core business,MSFT,Yahoo Finance,0.0596,0.6576,0.2828,negative,-0.598
+2023-12-06,Analysts maintain hold rating on GOOGL,GOOGL,Reuters,0.1256,0.2581,0.6163,neutral,-0.1325
+2023-12-06,MSFT lowers guidance amid macroeconomic headwinds,MSFT,Reuters,0.1486,0.7834,0.068,negative,-0.6348
+2023-12-06,Sector rotation leaves SPY flat on the day,SPY,CNBC,0.0922,0.4455,0.4624,neutral,-0.3533
+2023-12-07,Sector rotation leaves AAPL flat on the day,AAPL,Bloomberg,0.1618,0.3345,0.5037,neutral,-0.1727
+2023-12-07,SPY hit by data breach affecting millions of users,SPY,Yahoo Finance,0.0821,0.5653,0.3526,negative,-0.4832
+2023-12-08,Treasury yields climb as inflation data tops expectations,,Bloomberg,0.0529,0.2184,0.7287,neutral,-0.1655
+2023-12-13,Central banks globally signal tightening monetary policy,,CNBC,0.2402,0.2003,0.5595,neutral,0.0399
+2023-12-13,Small caps outperform as risk appetite improves,,Reuters,0.6072,0.0301,0.3628,positive,0.5771
+2023-12-14,Competition intensifies as SPY loses market share,SPY,MarketWatch,0.0213,0.7834,0.1953,negative,-0.7621
+2023-12-19,Short sellers increase bets against GOOGL,GOOGL,MarketWatch,0.8467,0.0287,0.1247,positive,0.818
+2023-12-19,Trade tensions weigh on QQQ international revenue,QQQ,Bloomberg,0.235,0.1577,0.6073,neutral,0.0774
+2023-12-19,MSFT reports record revenue in Q1 results,MSFT,MarketWatch,0.6395,0.0335,0.327,positive,0.6061
+2023-12-20,GOOGL board approves routine corporate matters,GOOGL,Yahoo Finance,0.2637,0.2336,0.5027,neutral,0.03
+2023-12-21,GDP growth slows but beats revised expectations,,Reuters,0.8111,0.0458,0.1431,positive,0.7654
+2023-12-21,Trading volume in QQQ remains steady ahead of earnings,QQQ,Reuters,0.2272,0.108,0.6648,neutral,0.1191
+2023-12-26,S&P 500 closes at session highs on broad rally,,CNBC,0.9191,0.0709,0.01,positive,0.8482
+2023-12-27,Concerns mount over MSFT slowing growth trajectory,MSFT,Reuters,0.078,0.87,0.052,negative,-0.792
+2023-12-27,GOOGL CFO departure raises governance questions,GOOGL,Bloomberg,0.0729,0.2078,0.7193,neutral,-0.1349
+2023-12-28,SPY cloud revenue growth accelerates in latest quarter,SPY,CNBC,0.6149,0.1305,0.2546,positive,0.4844
+2023-12-28,Central banks globally signal tightening monetary policy,,CNBC,0.1264,0.1779,0.6958,neutral,-0.0515
+2023-12-28,AAPL trading near 50-day moving average,AAPL,MarketWatch,0.1457,0.2253,0.629,neutral,-0.0796
+2023-12-29,SPY layoffs signal deeper problems in core business,SPY,Yahoo Finance,0.0234,0.5538,0.4228,negative,-0.5304
